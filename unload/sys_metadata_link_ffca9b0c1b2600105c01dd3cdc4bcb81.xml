@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>3447db441b2600105c01dd3cdc4bcb0f</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_courses"&gt;
+    &lt;x_9001_jedi_path_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type&gt;834f07841be200105c01dd3cdc4bcbb8,b45fc3c41be200105c01dd3cdc4bcb05&lt;/activity_type&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to/&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at&gt;2020-01-20 09:15:55&lt;/closed_at&gt;
+        &lt;closed_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/closed_by&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;course_detail&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Service Catalog Items and associated workflows hands-on experience&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estimated Time To complete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3&lt;span style="font-size: 10pt;"&gt; &lt;/span&gt;&lt;span style="font-size: 10pt;"&gt;hour&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge Required&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Service Catalog core configuration including Catalog Items, variables, Catalog Client Scripts, Catalog UI Policies, Workflows&lt;/p&gt;
+&lt;p&gt;Review wiki for Service Catalog Items functionality (variables, catalog client scripts, catalog UI policies). Review workflow documentation. Understand the difference between Request and Requested Item.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Test Case&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Create New Catalog Item&lt;/p&gt;
+&lt;p&gt;Name: &amp;#34;Service Desk IP Phone&amp;#34;&lt;/p&gt;
+&lt;p&gt;Should be visible only to Service Desk group&lt;/p&gt;
+&lt;p&gt;&lt;em style="font-size: 10pt;"&gt;Item layout:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1) Variable &amp;#34;Phone Model&amp;#34;: choice: &amp;#34;Cisco IP Phone&amp;#34;, &amp;#34;Avaya IP Phone&amp;#34; (mandatory for selection)&lt;/p&gt;
+&lt;p&gt;2) Variable &amp;#34;Access Level&amp;#34;: choice: &amp;#34;Agent&amp;#34;, &amp;#34;Manager&amp;#34; (Mandatory for the selection)&lt;/p&gt;
+&lt;p&gt;3) if &amp;#34;Access Level&amp;#34; &amp;#61; &amp;#34;Manager&amp;#34; is selected then display Free Text variable &amp;#34;My Team&amp;#34;, string 4000, should be mandatory when displayed&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;&lt;em&gt;Workflow:&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;1) If &amp;#34;Access Level&amp;#34; &amp;#61; &amp;#34;Agent&amp;#34; then request approval from the user&amp;#39;s manager (user reference is in current.request.requested_for where current is sc_req_item)&lt;/p&gt;
+&lt;p&gt;2) If approval is rejected then close sc_req_item with state &amp;#34;Closed - Incomplete&amp;#34;. If approved then proceed to the next step.&lt;/p&gt;
+&lt;p&gt;3) If  &amp;#34;Phone Model&amp;#34; &amp;#61; &amp;#34;Cisco IP Phone&amp;#34; then create 2 parallel Catalog Tasks:  &lt;/p&gt;
+&lt;p&gt;  a) for &amp;#34;Network&amp;#34; team with short Description &amp;#34;Provide Cisco IP Phone&amp;#34;&lt;/p&gt;
+&lt;p&gt;  b) for &amp;#34;Database&amp;#34; team with  short Description &amp;#34;Setup Cisco IP Phone&amp;#34;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;4) If  &amp;#34;Phone Model&amp;#34; &amp;#61; &amp;#34;Avaya IP Phone&amp;#34; then create 2 parallel Catalog Tasks:  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;  a) for &amp;#34;Database&amp;#34; team with short Description &amp;#34;Provide Avaya IP Phone&amp;#34;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;  b) for &amp;#34;Network&amp;#34; team with  short Description &amp;#34;Setup Avaya IP Phone&amp;#34;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;After all tasks above are complete &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;5) If &amp;#34;Access Level&amp;#34; &amp;#61; &amp;#34;Manager&amp;#34; then create Catalog Task for &amp;#34;Network&amp;#34; team with short description: &amp;#34;Setup Call Center Team&amp;#34; and description: &amp;#34;Setup Call Center Team for &amp;amp;lt;Requested For&amp;gt;: &amp;amp;lt;&amp;#34;My Team&amp;#34; variable content&amp;gt; &amp;#34;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;6) Close Requested Item with state &amp;#34;Closed - Complete&amp;#34;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trainee  Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trainee should propose the technical design and get approval from Coach before implementing the solution. After approval please implement it in the instance specified by the Coach using separate update set. Perform the unit testing before reporting task as completed to the Coach.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style="color: #000000; font-family: Arial; font-size: 13.3333px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;" /&gt;
+&lt;p&gt;&lt;strong&gt;Coach Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Attention how Mandatory variables are implemented (explain the Best Practice use case). Attention to the Catalog Item form behavior when free text field should become visible/ invisible. Is value cleaned when necessary even not specified in the task? Attention to workflow branches and joins.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;]]&gt;&lt;/course_detail&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;COU0001017&lt;/number&gt;
+        &lt;opened_at&gt;2020-01-20 09:15:55&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Induction Task #12 Service Catalog Items and associated workflows&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;state&gt;1&lt;/state&gt;
+        &lt;suggested_consultant_grade/&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-20 09:15:55&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;3447db441b2600105c01dd3cdc4bcb0f&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-20 09:24:30&lt;/sys_updated_on&gt;
+        &lt;time_worked/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 09:31:25</sys_created_on>
+        <sys_id>ffca9b0c1b2600105c01dd3cdc4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>COU0001017</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_ffca9b0c1b2600105c01dd3cdc4bcb81</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 09:31:25</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

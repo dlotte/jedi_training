@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Follow-up</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Follow-up</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">aed3a7b71b0200105c01dd3cdc4bcb8a</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-21 06:51:05</sys_created_on>
+        <sys_id>b4bfb3d41b2200105c01dd3cdc4bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Follow-up</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_wizard_answer_b4bfb3d41b2200105c01dd3cdc4bcb28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-21 06:51:05</sys_updated_on>
+        <table/>
+        <target_url>x_9001_jedi_path_follow_up.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_wizard_answer_b4bfb3d41b2200105c01dd3cdc4bcb28</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Follow-up</answer><button_label/><dependent_value/><element/><name>Follow-up</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">aed3a7b71b0200105c01dd3cdc4bcb8a</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:51:05</sys_created_on><sys_id>b4bfb3d41b2200105c01dd3cdc4bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Follow-up</sys_name><sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package><sys_policy/><sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope><sys_update_name>sys_wizard_answer_b4bfb3d41b2200105c01dd3cdc4bcb28</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:51:05</sys_updated_on><table/><target_url>x_9001_jedi_path_follow_up.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1931168658</payload_hash>
+        <record_name>Follow-up</record_name>
+        <reverted_from/>
+        <source>4caee3331b0200105c01dd3cdc4bcb62</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-01-07 06:03:49</sys_created_on>
+        <sys_id>b911cc681b2200105c01dd3cdc4bcbd1</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>16f7e9a25880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>7911cc68b22200104719b01b630e46d1</update_guid>
+        <update_guid_history>7911cc68b22200104719b01b630e46d1:-1931168658</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-21 06:57:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>31e9e5895de9423cb18c5c81db488410</sys_id>
+        <sys_metadata>b4bfb3d41b2200105c01dd3cdc4bcb28</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Follow-up</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent display_value="Task">aed3a7b71b0200105c01dd3cdc4bcb8a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_b4bfb3d41b2200105c01dd3cdc4bcb28</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_b4bfb3d41b2200105c01dd3cdc4bcb28">b911cc681b2200105c01dd3cdc4bcbd1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-21 06:57:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

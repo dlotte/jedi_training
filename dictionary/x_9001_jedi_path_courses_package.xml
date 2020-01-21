@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Courses package" max_length="40" name="x_9001_jedi_path_courses_package" sizeclass="1" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Activity type" max_length="1024" name="activity_type" reference="x_9001_jedi_path_activity_type" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Suggested consultant grade" max_length="1024" name="suggested_consultant_grade" reference="x_9001_jedi_path_consultant_grade" type="glide_list"/>
+    </element>
+</database>

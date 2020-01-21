@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="0bca80d01baa00105c01dd3cdc4bcbc9" sys_domain="global" table="x_9001_jedi_path_courses" version="3" view="m2m">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-20 13:04:05</sys_created_on>
+            <sys_id>3e7b8cd01baa00105c01dd3cdc4bcbfb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_courses" sys_domain="global" view="4bca80d01baa00105c01dd3cdc4bcbc4">0bca80d01baa00105c01dd3cdc4bcbc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-20 13:04:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>M2M.x_9001_jedi_path_courses.x_9001_jedi_path_m2m_courses_courses_packages.courses</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-20 13:04:05</sys_created_on>
+            <sys_id>be7b8cd01baa00105c01dd3cdc4bcbfb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_courses" sys_domain="global" view="4bca80d01baa00105c01dd3cdc4bcbc4">0bca80d01baa00105c01dd3cdc4bcbc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-20 13:04:05</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_9001_jedi_path_courses.x_9001_jedi_path_courses_package.parent</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-20 13:04:05</sys_created_on>
+            <sys_id>327b8cd01baa00105c01dd3cdc4bcbfc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_courses" sys_domain="global" view="4bca80d01baa00105c01dd3cdc4bcbc4">0bca80d01baa00105c01dd3cdc4bcbc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-20 13:04:05</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_9001_jedi_path_courses.x_9001_jedi_path_courses.parent</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-20 13:04:05</sys_created_on>
+            <sys_id>b27b8cd01baa00105c01dd3cdc4bcbfc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_courses" sys_domain="global" view="4bca80d01baa00105c01dd3cdc4bcbc4">0bca80d01baa00105c01dd3cdc4bcbc9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-20 13:04:05</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_9001_jedi_path_courses</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-20 13:01:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bca80d01baa00105c01dd3cdc4bcbc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_9001_jedi_path_courses</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+            <sys_update_name>sys_ui_section_0bca80d01baa00105c01dd3cdc4bcbc9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-20 13:01:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="m2m" name="m2m">4bca80d01baa00105c01dd3cdc4bcbc4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_ui_section_0bca80d01baa00105c01dd3cdc4bcbc9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="0bca80d01baa00105c01dd3cdc4bcbc9" sys_domain="global" table="x_9001_jedi_path_courses" version="3" view="m2m"><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-20 13:04:05</sys_created_on><sys_id>3e7b8cd01baa00105c01dd3cdc4bcbfb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_courses" sys_domain="global" view="4bca80d01baa00105c01dd3cdc4bcbc4">0bca80d01baa00105c01dd3cdc4bcbc9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-20 13:04:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>M2M.x_9001_jedi_path_courses.x_9001_jedi_path_m2m_courses_courses_packages.courses</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-20 13:04:05</sys_created_on><sys_id>be7b8cd01baa00105c01dd3cdc4bcbfb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_courses" sys_domain="global" view="4bca80d01baa00105c01dd3cdc4bcbc4">0bca80d01baa00105c01dd3cdc4bcbc9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-20 13:04:05</sys_updated_on><sys_user/><type>list</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>12M.x_9001_jedi_path_courses.x_9001_jedi_path_courses_package.parent</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-20 13:04:05</sys_created_on><sys_id>327b8cd01baa00105c01dd3cdc4bcbfc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_courses" sys_domain="global" view="4bca80d01baa00105c01dd3cdc4bcbc4">0bca80d01baa00105c01dd3cdc4bcbc9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-20 13:04:05</sys_updated_on><sys_user/><type>list</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>12M.x_9001_jedi_path_courses.x_9001_jedi_path_courses.parent</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-20 13:04:05</sys_created_on><sys_id>b27b8cd01baa00105c01dd3cdc4bcbfc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_courses" sys_domain="global" view="4bca80d01baa00105c01dd3cdc4bcbc4">0bca80d01baa00105c01dd3cdc4bcbc9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-20 13:04:05</sys_updated_on><sys_user/><type>list</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_9001_jedi_path_courses</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-20 13:01:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0bca80d01baa00105c01dd3cdc4bcbc9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_9001_jedi_path_courses</sys_name><sys_overrides/><sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package><sys_policy/><sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope><sys_update_name>sys_ui_section_0bca80d01baa00105c01dd3cdc4bcbc9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-20 13:01:05</sys_updated_on><sys_user/><title>false</title><view display_value="m2m" name="m2m">4bca80d01baa00105c01dd3cdc4bcbc4</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1951964998</payload_hash>
+        <record_name>Courses</record_name>
+        <reverted_from/>
+        <source>703c724c1b2200105c01dd3cdc4bcb53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 13:04:05</sys_created_on>
+        <sys_id>4f7b8cd01baa00105c01dd3cdc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fc30d96480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 13:04:05</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>077b8cd075aa0010a36518ba515d49fd</update_guid>
+        <update_guid_history>077b8cd075aa0010a36518ba515d49fd:1951964998,d6ea44d0ecaa00107d9bd1dc11c15f1e:1804307274,cfca80d065aa001021b5ad86496560cc:-1539958598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 13:06:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>29db69c526e34149829dce93859f3201</sys_id>
+        <sys_metadata>0bca80d01baa00105c01dd3cdc4bcbc9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9001_jedi_path_courses</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent display_value="Courses">743df2041b6200105c01dd3cdc4bcb71</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_ui_section_0bca80d01baa00105c01dd3cdc4bcbc9</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_0bca80d01baa00105c01dd3cdc4bcbc9">4f7b8cd01baa00105c01dd3cdc4bcbfd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 13:06:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

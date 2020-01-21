@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Courses in Packages" language="en" table="x_9001_jedi_path_m2m_courses_courses_packages">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Courses in Packages</label>
+            <language>en</language>
+            <name>x_9001_jedi_path_m2m_courses_courses_packages</name>
+            <plural>Courses in Packages</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-20 09:35:32</sys_created_on>
+            <sys_id>80cbd78c1b2600105c01dd3cdc4bcb21</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Courses in Packages</sys_name>
+            <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+            <sys_update_name>sys_documentation_x_9001_jedi_path_m2m_courses_courses_packages__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-20 12:16:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

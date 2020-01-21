@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Follow-up" max_length="40" name="x_9001_jedi_path_follow_up" type="collection">
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Coach" max_length="32" name="coach" reference="sys_user" type="reference"/>
+        <element label="Course package" max_length="32" name="course_package" reference="x_9001_jedi_path_courses_package" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="Open"/>
+                <element inactive_on_update="false" label="Work in progress" sequence="1" value="Work in progress"/>
+                <element inactive_on_update="false" label="Pending" sequence="2" value="Pending"/>
+                <element inactive_on_update="false" label="Done" sequence="3" value="Done"/>
+                <element inactive_on_update="false" label="Blocked" sequence="4" value="Blocked"/>
+            </choice>
+        </element>
+        <element label="Target instance" max_length="32" name="target_instance" reference="x_9001_jedi_path_target_instance" type="reference"/>
+        <index name="index">
+            <element name="target_instance"/>
+        </index>
+        <index name="index2">
+            <element name="coach"/>
+        </index>
+        <index name="index3">
+            <element name="course_package"/>
+        </index>
+        <index name="index4">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

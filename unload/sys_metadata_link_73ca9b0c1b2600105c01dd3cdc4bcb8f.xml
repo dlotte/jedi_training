@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>4d47db441b2600105c01dd3cdc4bcb92</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_courses"&gt;
+    &lt;x_9001_jedi_path_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type&gt;834f07841be200105c01dd3cdc4bcbb8&lt;/activity_type&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to/&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at&gt;2020-01-20 09:15:56&lt;/closed_at&gt;
+        &lt;closed_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/closed_by&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;course_detail&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Access Controls and default field values hands-on experience&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estimated Time To complete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5&lt;span style="font-size: 10pt;"&gt; &lt;/span&gt;&lt;span style="font-size: 10pt;"&gt;hour&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge Required&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Access Controls, new tables creation&lt;/p&gt;
+&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Important&lt;/strong&gt;&lt;/span&gt;: if this is the first time you apply ACLs please review Wiki articles on Access Controls.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Test Case&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1. Create new table &amp;#34;Secure Message&amp;#34; with fields:&lt;/p&gt;
+&lt;p&gt;a) FROM, reference to sys_user&lt;/p&gt;
+&lt;p&gt;b) TO, reference to sys_user&lt;/p&gt;
+&lt;p&gt;c)  Message, text 4000&lt;/p&gt;
+&lt;p&gt;2) Personalize form and list layout to have all three fields available on the form and list&lt;/p&gt;
+&lt;p&gt;3) Add module to &amp;#34;Secure Message&amp;#34; records lists to Self Service application at the bottom, choose the icon you like.&lt;/p&gt;
+&lt;p&gt;4) Setup Access Controls to support the use case below:&lt;/p&gt;
+&lt;p&gt;Use Case:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;FROM and TO should be able to read records where they are specified in respective fields.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;At the same time only FROM should be able to WRITE to all fields.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;We should not display FROM value to TO user (Field level ACL).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;Delete operation over &amp;#34;Secure Message&amp;#34; should be allowed only to FROM. &lt;br /&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;Create operation should be allowed only to ITIL role holders.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;Ensure that user reference who is creating a record is put to FROM field and CAN NOT be modified afterwards (use default field value, see dictionary for incident.caller_id as an example)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trainee  Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ff0000;"&gt;Please implement in the instance specified by Coach without proposing and getting approval for the technical design. Use separate update set. Perform the unit testing before reporting task as completed to the Coach.  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style="color: #000000; font-family: Arial; font-size: 13.3333px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;" /&gt;
+&lt;p&gt;&lt;strong&gt;Coach Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ff0000;"&gt;Make strict review of the update set and ACLs from the Best Practice use case applied. Review issues, mistakes with the Trainee and provide the feedback on the overall exercise completion &lt;strong&gt;(perfect, good, average, bad)&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;]]&gt;&lt;/course_detail&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;COU0001036&lt;/number&gt;
+        &lt;opened_at&gt;2020-01-20 09:15:56&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Induction Task #11 Access Controls and default field values (and knowledge validation)&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;state&gt;1&lt;/state&gt;
+        &lt;suggested_consultant_grade/&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-20 09:15:56&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;4d47db441b2600105c01dd3cdc4bcb92&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-20 09:22:44&lt;/sys_updated_on&gt;
+        &lt;time_worked/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 09:31:25</sys_created_on>
+        <sys_id>73ca9b0c1b2600105c01dd3cdc4bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>COU0001036</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_73ca9b0c1b2600105c01dd3cdc4bcb8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 09:31:25</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Target instance" max_length="40" name="x_9001_jedi_path_target_instance" type="collection">
+        <element label="Login" max_length="40" name="login" type="string"/>
+        <element label="Password" max_length="40" name="password" type="password"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Active" sequence="0" value="Active"/>
+                <element inactive_on_update="false" label="Inactive" sequence="1" value="Inactive"/>
+                <element inactive_on_update="false" label="Hibernation" sequence="3" value="hibernation"/>
+            </choice>
+        </element>
+        <element label="Target instance" max_length="255" name="target_instance" type="url"/>
+    </element>
+</database>

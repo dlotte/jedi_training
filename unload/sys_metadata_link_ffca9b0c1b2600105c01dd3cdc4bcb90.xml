@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>7047db441b2600105c01dd3cdc4bcb00</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_courses"&gt;
+    &lt;x_9001_jedi_path_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type&gt;834f07841be200105c01dd3cdc4bcbb8&lt;/activity_type&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to/&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at&gt;2020-01-20 09:15:55&lt;/closed_at&gt;
+        &lt;closed_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/closed_by&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;course_detail&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Objective for Trainee&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pass through induction tasks and get &lt;span style="font-size: 10pt;"&gt;hands-on experience.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective for Coach&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Evaluate Trainee Service-Now skills.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 13.3333px;"&gt;The progress of your induction process will be followed using the same tools as we are using on the projects with the customers. Please see the tasks 5 and 6 in this table for more details.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;Note: depending on your role (Technical Consultant. TC / Solution Consultant, SC)  you may require to do either all Induction Tasks (TC) or just some of them (SC).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;table style="border-collapse: collapse; width: 889px; height: 829px;" border="0" width="1086" cellspacing="0" cellpadding="0"&gt;&lt;colgroup&gt;&lt;col style="width: 48pt;" width="64" /&gt;&lt;col style="width: 407pt;" width="542" /&gt;&lt;col style="width: 134pt;" span="2" width="178" /&gt;&lt;col style="width: 93pt;" width="124" /&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style="height: 15pt;"&gt;&lt;td class="xl71" style="height: 15pt; width: 48pt;" align="center" width="64" height="20"&gt;&lt;strong&gt;Number&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl72" style="border-left-style: none; width: 407pt;" width="542"&gt;&lt;strong&gt; To Do&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl72" style="border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Accountable&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl72" style="border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Responsible&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl73" style="border-left-style: none; width: 93pt;" align="center" width="124"&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 44.25pt;"&gt;&lt;td class="xl74" style="height: 44.25pt; border-top-style: none; width: 48pt;" align="center" width="64" height="59"&gt;1&lt;/td&gt;&lt;td class="xl69" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;Get account in aspediens.service-now.com. Ask Coach to assist you if necessary&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Trainee&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;Trainee&lt;/td&gt;&lt;td class="xl75" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 54pt;"&gt;&lt;td class="xl74" style="height: 54pt; border-top-style: none; width: 48pt;" align="center" width="64" height="72"&gt;2&lt;/td&gt;&lt;td class="xl67" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;
+&lt;p&gt;Read the &amp;#34;Fruition Partners development and coding guidelines&amp;#34;&lt;br /&gt;Path in SharePoint: &lt;a href="https://dxcportal.sharepoint.com/:b:/s/frueu/EZV3Kcq-YOVOlXZm71sBUMoBp0tA76xlRWylVD03GZs-AQ?e&amp;#61;QkJxaT" rel="nofollow"&gt;https://dxcportal.sharepoint.com/:b:/s/frueu/EZV3Kcq-YOVOlXZm71sBUMoBp0tA76xlRWylVD03GZs-AQ?e&amp;#61;QkJxaT&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Trainee&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;Trainee&lt;/td&gt;&lt;td class="xl75" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt;
+&lt;p&gt;No&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 54pt;"&gt;&lt;td class="xl74" style="height: 54pt; border-top-style: none; width: 48pt;" align="center" width="64" height="72"&gt;3&lt;/td&gt;&lt;td class="xl67" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;Complete the Service-Now Admin Training&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Trainee&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;Trainee&lt;/td&gt;&lt;td class="xl75" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt;
+&lt;p&gt;No&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 75pt;"&gt;&lt;td class="xl74" style="height: 75pt; border-top-style: none; width: 48pt;" align="center" width="64" height="100"&gt;4&lt;/td&gt;&lt;td class="xl67" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;Go to developer.servicenow.com. Register yourself. Once you are registered and connected, go to the &amp;#34;Manage&amp;#34; option and ask for the ServiceNow instance of the latest available version (release). &lt;br /&gt; Create admin account for Coach and Trainee, Inactivate other instance admins.&lt;/td&gt;&lt;td class="xl70" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Coach&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl70" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;Coach&lt;/td&gt;&lt;td class="xl75" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 48pt;"&gt;&lt;td class="xl74" style="height: 48pt; border-top-style: none; width: 48pt;" align="center" width="64" height="64"&gt;5.1&lt;/td&gt;&lt;td class="xl67" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;Create a new Release named &amp;#34;Induction tasks XXX&amp;#34; with the adequate assignment group. &lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Coach&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Coach&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl75" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 48pt;"&gt;&lt;td class="xl74" style="height: 48pt; border-top-style: none; width: 48pt;" align="center" width="64" height="64"&gt;5.2&lt;/td&gt;&lt;td class="xl67" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;Create a change template in order to quickly create change related to this release without mistakes &lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Coach&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt; &lt;strong&gt;Coach&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl75" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt; No&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 48pt;"&gt;&lt;td class="xl74" style="height: 48pt; border-top-style: none; width: 48pt;" align="center" width="64" height="64"&gt; 5.3&lt;/td&gt;&lt;td class="xl67" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;Create one change per induction task by copy/past the instructions descriped in the KB to the Description of the change. When creating the change, use the template created by the coach&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;&lt;strong&gt;Trainee&lt;/strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl68" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt; Trainee&lt;/td&gt;&lt;td class="xl75" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 75.75pt;"&gt;&lt;td class="xl76" style="height: 75.75pt; border-top-style: none; width: 48pt;" align="center" width="64" height="101"&gt;6&lt;/td&gt;&lt;td class="xl77" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;Do the training like working in real conditions (client/ solution consultant / technical consultant) &lt;/td&gt;&lt;td class="xl78" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;Coach&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl79" style="border-top-style: none; border-left-style: none;" align="center"&gt;Coach, Trainee&lt;/td&gt;&lt;td class="xl80" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt;
+&lt;p&gt;No&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 75.75pt;"&gt;&lt;td class="xl76" style="height: 75.75pt; border-top-style: none; width: 48pt;" align="center" width="64" height="101"&gt;6.1&lt;/td&gt;&lt;td class="xl77" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;Use the field status, stages, customer effort, aspediens effort and reports to track the training progress&lt;/td&gt;&lt;td class="xl78" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;&lt;strong&gt;Coach&lt;/strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl79" style="border-top-style: none; border-left-style: none;" align="center"&gt;Coach, Trainee &lt;/td&gt;&lt;td class="xl80" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt; No&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 75.75pt;"&gt;&lt;td class="xl76" style="height: 75.75pt; border-top-style: none; width: 48pt;" align="center" width="64" height="101"&gt;6.2&lt;/td&gt;&lt;td class="xl77" style="border-top-style: none; border-left-style: none; width: 407pt;" width="542"&gt;Use the solution design, technical steps and worknotes to communicate&lt;/td&gt;&lt;td class="xl78" style="border-top-style: none; border-left-style: none; width: 134pt;" align="center" width="178"&gt;&lt;strong&gt;&lt;strong&gt;Coach&lt;/strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl79" style="border-top-style: none; border-left-style: none;" align="center"&gt; Coach, Trainee &lt;/td&gt;&lt;td class="xl80" style="border-top-style: none; border-left-style: none; width: 93pt;" align="center" width="124"&gt; No&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;(Nikita)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;]]&gt;&lt;/course_detail&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;COU0001008&lt;/number&gt;
+        &lt;opened_at&gt;2020-01-20 09:15:55&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Induction Task #00 Instructions&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;state&gt;1&lt;/state&gt;
+        &lt;suggested_consultant_grade/&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-20 09:15:55&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;7047db441b2600105c01dd3cdc4bcb00&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-20 09:22:44&lt;/sys_updated_on&gt;
+        &lt;time_worked/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 09:31:25</sys_created_on>
+        <sys_id>ffca9b0c1b2600105c01dd3cdc4bcb90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>COU0001008</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_ffca9b0c1b2600105c01dd3cdc4bcb90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 09:31:25</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

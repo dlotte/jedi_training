@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="61cfb7541b2200105c01dd3cdc4bcbc2" sys_domain="global" table="x_9001_jedi_path_follow_up" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>c05084281b2200105c01dd3cdc4bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>445084281b2200105c01dd3cdc4bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>c45084281b2200105c01dd3cdc4bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimated_time_to_complete</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>485084281b2200105c01dd3cdc4bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>coach</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>c85084281b2200105c01dd3cdc4bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>4c5084281b2200105c01dd3cdc4bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>cc5084281b2200105c01dd3cdc4bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>405084281b2200105c01dd3cdc4bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>objective</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>c05084281b2200105c01dd3cdc4bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge_required</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>445084281b2200105c01dd3cdc4bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_case</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>c45084281b2200105c01dd3cdc4bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_and_work_notes</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>485084281b2200105c01dd3cdc4bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>trainee_instructions</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>c85084281b2200105c01dd3cdc4bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>coach_instructions_tips</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>4c5084281b2200105c01dd3cdc4bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>course_detail</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+            <sys_id>cc5084281b2200105c01dd3cdc4bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_9001_jedi_path_follow_up</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 06:51:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61cfb7541b2200105c01dd3cdc4bcbc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_9001_jedi_path_follow_up</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+            <sys_update_name>sys_ui_section_61cfb7541b2200105c01dd3cdc4bcbc2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 06:51:25</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_ui_section_61cfb7541b2200105c01dd3cdc4bcbc2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="61cfb7541b2200105c01dd3cdc4bcbc2" sys_domain="global" table="x_9001_jedi_path_follow_up" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>c05084281b2200105c01dd3cdc4bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>445084281b2200105c01dd3cdc4bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>c45084281b2200105c01dd3cdc4bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimated_time_to_complete</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>485084281b2200105c01dd3cdc4bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>coach</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>c85084281b2200105c01dd3cdc4bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>4c5084281b2200105c01dd3cdc4bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>cc5084281b2200105c01dd3cdc4bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>405084281b2200105c01dd3cdc4bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>objective</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>c05084281b2200105c01dd3cdc4bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>knowledge_required</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>445084281b2200105c01dd3cdc4bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>test_case</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>c45084281b2200105c01dd3cdc4bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>comments_and_work_notes</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>485084281b2200105c01dd3cdc4bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>trainee_instructions</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>c85084281b2200105c01dd3cdc4bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>coach_instructions_tips</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>4c5084281b2200105c01dd3cdc4bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>course_detail</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:53:46</sys_created_on><sys_id>cc5084281b2200105c01dd3cdc4bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up" sys_domain="global" view="Default view">61cfb7541b2200105c01dd3cdc4bcbc2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:53:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_9001_jedi_path_follow_up</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 06:51:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>61cfb7541b2200105c01dd3cdc4bcbc2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_9001_jedi_path_follow_up</sys_name><sys_overrides/><sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package><sys_policy/><sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope><sys_update_name>sys_ui_section_61cfb7541b2200105c01dd3cdc4bcbc2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 06:51:25</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1282313173</payload_hash>
+        <record_name>Follow-up</record_name>
+        <reverted_from/>
+        <source>703c724c1b2200105c01dd3cdc4bcb53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-21 06:53:46</sys_created_on>
+        <sys_id>445084281b2200105c01dd3cdc4bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fc6e0eb740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-21 06:53:46</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>0c5084285122001024f06530557bd02b</update_guid>
+        <update_guid_history>0c5084285122001024f06530557bd02b:-1282313173,98200028d922001050957316b90faaa9:1953155499,25cf77d4542200105dc0ce910df3b03d:-1591402159</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-21 06:57:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0602d21186a9493b8039c1add24cd089</sys_id>
+        <sys_metadata>61cfb7541b2200105c01dd3cdc4bcbc2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9001_jedi_path_follow_up</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent display_value="">fc9fbf941b2200105c01dd3cdc4bcb6c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_ui_section_61cfb7541b2200105c01dd3cdc4bcbc2</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_61cfb7541b2200105c01dd3cdc4bcbc2">445084281b2200105c01dd3cdc4bcb2c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-21 06:57:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

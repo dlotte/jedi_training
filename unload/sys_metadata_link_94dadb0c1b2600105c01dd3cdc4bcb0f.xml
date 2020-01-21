@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>f047db441b2600105c01dd3cdc4bcb25</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_courses"&gt;
+    &lt;x_9001_jedi_path_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type&gt;834f07841be200105c01dd3cdc4bcbb8,b45fc3c41be200105c01dd3cdc4bcb05&lt;/activity_type&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to/&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at&gt;2020-01-20 09:15:56&lt;/closed_at&gt;
+        &lt;closed_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/closed_by&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;course_detail&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hands-on experience with Homepages management&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estimated Time To complete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2&lt;span style="font-size: 10pt;"&gt; &lt;/span&gt;&lt;span style="font-size: 10pt;"&gt;hour&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge Required&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;Homepages http://wiki.servicenow.com/index.php?title&amp;#61;Homepage_Administration&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;Gauges http://wiki.servicenow.com/index.php?title&amp;#61;Adding_Existing_Gauges_to_a_Homepage&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;and other articles related to Homepages, Gauges and  Reports management.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Test Case&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Create reports and Homepage in  Service Desk application in a new update set.&lt;/p&gt;
+&lt;p&gt;Reports to be created and placed on a new homepage named &amp;#34;Service Desk&amp;#34; (should be available in Service Desk application as separate module)&lt;/p&gt;
+&lt;p&gt;1) Trend chart report showing all incidents &lt;span style="text-decoration: underline;"&gt;registration&lt;/span&gt; trend (Report Type: Trend Chart, use Opened Date/Month as trend field)&lt;/p&gt;
+&lt;p&gt;2) Trend chart report showing all incidents &lt;span style="text-decoration: underline;"&gt;closure &lt;/span&gt;trend &lt;span style="font-size: 10pt;"&gt;(Report Type: Trend Chart, use Closed Date&lt;/span&gt;&lt;span style="font-size: 10pt;"&gt;/Month&lt;/span&gt;&lt;span style="font-size: 10pt;"&gt; as trend field)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;3) Chart report showing &lt;span style="text-decoration: underline;"&gt;active&lt;/span&gt; ServiceDesk incidents distribution by State&lt;/p&gt;
+&lt;p&gt;4) Pivot table report showing a&lt;span style="text-decoration: underline;"&gt;ctive&lt;/span&gt; ServiceDesk incidents &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;rows: Assigned To &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;columns: State&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;Create reports and Homepage in  Service Desk application in the same update set.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Reports to be created and placed on the homepage:named &amp;#34;SLA compliance&amp;#34; (should be available in Service Desk application as separate module)&lt;/p&gt;
+&lt;p&gt;1) Trend Chart report showing monthly trend of Service Desk Task SLA with type &amp;#61; OLA  grouped by stage (Achieved or Breached)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Answer a question: what needs to be done with the homepage in order to include it to the update set (it is not included in  update sets by default). Use wiki as source of information.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trainee  Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trainee should propose the technical design and get approval from Coach before implementing the solution. After approval please implement it in the instance specified by the Coach using separate update set. Perform the unit testing before reporting task as completed to the Coach.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style="color: #000000; font-family: Arial; font-size: 13.333333969116211px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;" /&gt;
+&lt;p&gt;&lt;strong&gt;Coach Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Review the development done and test according the scenarios paying attention to the right fields chosen for filtering data and displaying the results.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;]]&gt;&lt;/course_detail&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;COU0001030&lt;/number&gt;
+        &lt;opened_at&gt;2020-01-20 09:15:56&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Induction Task #26 Homepages management&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;state&gt;1&lt;/state&gt;
+        &lt;suggested_consultant_grade/&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-20 09:15:56&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;f047db441b2600105c01dd3cdc4bcb25&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-20 09:26:31&lt;/sys_updated_on&gt;
+        &lt;time_worked/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 09:31:28</sys_created_on>
+        <sys_id>94dadb0c1b2600105c01dd3cdc4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>COU0001030</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_94dadb0c1b2600105c01dd3cdc4bcb0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 09:31:28</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

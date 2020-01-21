@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Courses in Packages" max_length="40" name="x_9001_jedi_path_m2m_courses_courses_packages" type="collection">
+        <element attributes="encode_utf8=false" label="Courses" max_length="32" name="courses" reference="x_9001_jedi_path_courses" type="reference"/>
+        <element attributes="encode_utf8=false" label="Courses package" max_length="32" name="courses_package" reference="x_9001_jedi_path_courses_package" type="reference"/>
+        <index name="index">
+            <element name="courses"/>
+        </index>
+        <index name="index2">
+            <element name="courses_package"/>
+        </index>
+    </element>
+</database>
