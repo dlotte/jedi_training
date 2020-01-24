@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Courses" max_length="40" name="x_9001_jedi_path_courses" sizeclass="39" type="collection">
+    <element extends="task" label="Courses" max_length="40" name="x_9001_jedi_path_courses" sizeclass="40" type="collection">
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Activity type" max_length="1024" name="activity_type" reference="x_9001_jedi_path_activity_type" type="glide_list"/>
         <element label="Coach Instructions  Tips" max_length="65536" name="coach_instructions_tips" type="html"/>
         <element attributes="encode_utf8=false" label="Course detail" max_length="65536" name="course_detail" type="translated_html"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Course type" max_length="40" name="course_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Lesson" sequence="0" value="Lesson"/>
+                <element inactive_on_update="false" label="Exercise" sequence="1" value="Exercise"/>
+            </choice>
+        </element>
         <element label="Estimated time to complete" max_length="40" name="estimated_time_to_complete" type="glide_duration"/>
         <element label="Knowledge Required" max_length="65536" name="knowledge_required" type="html"/>
         <element attributes="edge_encryption_enabled=true" label="Objective" max_length="1000" name="objective" type="string"/>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>462794a41be200105c01dd3cdc4bcba1</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_follow_up_courses"&gt;
+    &lt;x_9001_jedi_path_follow_up_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type/&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to/&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at/&gt;
+        &lt;closed_by/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;coach_instructions_tips&gt;&lt;![CDATA[&lt;p&gt;&lt;/p&gt;]]&gt;&lt;/coach_instructions_tips&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;cours_package/&gt;
+        &lt;course_detail&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hands-on experience with Before Query Business Rules&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estimated Time To complete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2&lt;span style="font-size: 10pt;"&gt; &lt;/span&gt;&lt;span style="font-size: 10pt;"&gt;hour&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge Required&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#34;Before query&amp;#34; business rules&lt;/p&gt;
+&lt;p&gt;Review wiki documentation for Before Query Business Rules&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Test Case&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Customer would like to introduce &amp;#34;Confidential Incidents&amp;#34;. Confidential Incident is an incident that has &amp;#34;Confidential&amp;#34; flag set to TRUE (create new field). Confidential Incidents can be seen only by a person specified in &amp;#39;Assigned To&amp;#34; or those users that have &amp;#34;security_officer&amp;#34; role assigned (create new role).&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;Make sure that Confidential Incidents can not be seen by non-desired IT individuals from Global Search results.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;&lt;strong&gt;EXAMPLE:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;INC001 is assigned to User1&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;User2 holds &amp;#34;security_officer&amp;#34; role&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;we also have User3 with itil role&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;Expected result: Only users User1 and User2 should be able to see and work on INC001. User3 should not be able to see any field from INC001 in Incident lists, Global Search or attempting to access INC001 using a direct link (e.g. from Notification email).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trainee  Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trainee should propose the technical design and get approval from Coach before implementing the solution. After approval please implement it in the instance specified by the Coach using separate update set. Perform the unit testing before reporting task as completed to the Coach.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style="color: #000000; font-family: Arial; font-size: 13.3333px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;" /&gt;
+&lt;p&gt;&lt;strong&gt;Coach Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Review the development done and test according the scenarios.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;]]&gt;&lt;/course_detail&gt;
+        &lt;course_type/&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;estimated_time_to_complete/&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;follow_up_record display_value="FLW0001007"&gt;91a304ec1b2200105c01dd3cdc4bcb3c&lt;/follow_up_record&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;knowledge_required&gt;&lt;![CDATA[&lt;p&gt;&lt;/p&gt;]]&gt;&lt;/knowledge_required&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;FLC0001039&lt;/number&gt;
+        &lt;objective/&gt;
+        &lt;opened_at&gt;2020-01-21 08:33:35&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Induction Task #19 Before Query Business Rules&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;sn_esign_document/&gt;
+        &lt;sn_esign_esignature_configuration/&gt;
+        &lt;sn_hr_le_activity/&gt;
+        &lt;state&gt;11&lt;/state&gt;
+        &lt;suggested_consultant_grade/&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_follow_up_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-21 08:33:35&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;462794a41be200105c01dd3cdc4bcba1&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-21 13:10:43&lt;/sys_updated_on&gt;
+        &lt;test_case&gt;&lt;![CDATA[&lt;p&gt;&lt;/p&gt;]]&gt;&lt;/test_case&gt;
+        &lt;time_worked/&gt;
+        &lt;trainee_instructions/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_follow_up_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 12:26:24</sys_created_on>
+        <sys_id>4a39a4a11b6a00105c01dd3cdc4bcbf3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FLC0001039</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_4a39a4a11b6a00105c01dd3cdc4bcbf3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 12:26:24</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

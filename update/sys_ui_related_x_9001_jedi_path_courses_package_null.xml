@@ -2,17 +2,31 @@
     <sys_ui_related sys_domain="global" table="x_9001_jedi_path_courses_package" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Courses package - Default view" name="x_9001_jedi_path_courses_package" related_list="NULL" sys_domain="global" view="Default view">88e044101b6a00105c01dd3cdc4bcb2a</list_id>
+            <list_id display_value="Courses package - Default view" name="x_9001_jedi_path_courses_package" related_list="NULL" sys_domain="global" view="Default view">bc5a1c2c1be200105c01dd3cdc4bcb06</list_id>
             <order_by/>
             <position>0</position>
             <related_list>x_9001_jedi_path_m2m_courses_courses_packages.courses_package</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-20 12:17:44</sys_created_on>
-            <sys_id>8ce044101b6a00105c01dd3cdc4bcb2b</sys_id>
+            <sys_created_on>2020-01-21 08:47:24</sys_created_on>
+            <sys_id>345a1c2c1be200105c01dd3cdc4bcb07</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-20 12:17:44</sys_updated_on>
+            <sys_updated_on>2020-01-21 08:47:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Courses package - Default view" name="x_9001_jedi_path_courses_package" related_list="NULL" sys_domain="global" view="Default view">bc5a1c2c1be200105c01dd3cdc4bcb06</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_9001_jedi_path_follow_up.course_package</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 08:47:24</sys_created_on>
+            <sys_id>385a1c2c1be200105c01dd3cdc4bcb07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 08:47:24</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
             <calculated_name>Courses package - Default view</calculated_name>
@@ -23,10 +37,10 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-20 12:17:44</sys_created_on>
+            <sys_created_on>2020-01-21 08:47:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>88e044101b6a00105c01dd3cdc4bcb2a</sys_id>
+            <sys_id>bc5a1c2c1be200105c01dd3cdc4bcb06</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Courses package - Default view</sys_name>
             <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
@@ -34,7 +48,7 @@
             <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
             <sys_update_name>sys_ui_related_x_9001_jedi_path_courses_package_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-20 12:17:44</sys_updated_on>
+            <sys_updated_on>2020-01-21 08:47:24</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

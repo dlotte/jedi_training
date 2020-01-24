@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>962794a41be200105c01dd3cdc4bcba6</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_follow_up_courses"&gt;
+    &lt;x_9001_jedi_path_follow_up_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type/&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to/&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at/&gt;
+        &lt;closed_by/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;coach_instructions_tips&gt;&lt;![CDATA[&lt;p&gt;&lt;/p&gt;]]&gt;&lt;/coach_instructions_tips&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;cours_package/&gt;
+        &lt;course_detail&gt;&lt;![CDATA[&lt;p&gt;&lt;em&gt;&lt;strong&gt;Update 15/09/2015 - Ximizu Huynh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;* Added the new version of the lab guide which is compatible with the &lt;a title="Fuji release" href="http://wiki.servicenow.com/index.php?title&amp;#61;Fuji_Release_Notes#gsc.tab&amp;#61;0" target="_blank" rel="noopener noreferrer nofollow"&gt;Fuji release&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a title="App Creator Workshop Lab Guide Sept 2015.pdf" href="/sys_attachment.do?sys_id&amp;#61;83e5c5c54f660200a239bc218110c725" rel="nofollow"&gt;App Creator Workshop Lab Guide Sept 2015.pdf&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Source: &lt;a title="https://community.servicenow.com/community/develop/blog/2015/09/14/custom-app-development-workshop-materials" href="https://community.servicenow.com/community/develop/blog/2015/09/14/custom-app-development-workshop-materials" target="_blank" rel="noopener noreferrer nofollow"&gt;https://community.servicenow.com/community/develop/blog/2015/09/14/custom-app-development-workshop-materials&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style="display: inline !important;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Get hands-on PaaS (Platform as a Service) &amp;amp; Application Creator&lt;/p&gt;
+&lt;p&gt;Discover Service Now capabilities and gain Build/Dev experience&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;strong&gt;Estimated Time To complete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;6 hours&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge Required&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No specific Knowledge required. Basic tutorial.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Test Case&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Follow the Service Now Tutorial attached (&lt;a title="SN_CustomDevWorkshopTutorial_Sprd.pdf" href="/sys_attachment.do?sys_id&amp;#61;9bba5ea398eb89003b297d9d2616b020" rel="nofollow"&gt;SN_CustomDevWorkshopTutorial_Sprd.pdf&lt;/a&gt;). (for internal use only)&lt;/p&gt;
+&lt;p&gt;This case is relevant to get a broad idea of the Service Automation Platform which is needed to build efficient Application (From Calgary release)&lt;/p&gt;
+&lt;p&gt;Demonstrate the ability of SN to be used as Paas&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trainee  Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Be sure to do implementation in a suitable instance. &lt;/p&gt;
+&lt;p&gt;Do customization in a dedicated Update Set&lt;/p&gt;
+&lt;p&gt;Follow the Service Now Tutorial attached (SN_CustomDevWorkshopTutorial_Sprd.pdf)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style="color: #000000; font-family: Arial; font-size: 13.333333969116211px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;" /&gt;
+&lt;p&gt;&lt;strong&gt;Coach Instructions &amp;amp; Tips&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="page" title="Page 17"&gt;
+&lt;div class="section"&gt;
+&lt;div class="layoutArea"&gt;
+&lt;div class="column"&gt;
+&lt;p&gt;&lt;span style="font-size: 11pt; font-family: HelveticaNeueLTStd; font-weight: bold; color: #c32027;"&gt;Chapter 6 &lt;/span&gt;&lt;span style="font-size: 11pt; font-family: HelveticaNeueLTStd; font-weight: bold; color: #272425;"&gt;– Data Import and Export Duration: 30 minutes &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Be sure to set the separator type when leading .csv file. Field empty by default. To specify that, display the field &amp;#39;CSV Delimiter&amp;#39; on the form &amp;#39;Data source&amp;#39;.&lt;/p&gt;
+&lt;p&gt;Attention to the Coalesce field in Transform Map if Transform several time.&lt;/p&gt;
+&lt;div class="page" title="Page 37"&gt;
+&lt;div class="section"&gt;
+&lt;div class="layoutArea"&gt;
+&lt;div class="column"&gt;
+&lt;p&gt;&lt;span style="font-size: 11pt; font-family: HelveticaNeueLTStd; font-weight: bold; color: #c32027;"&gt;Chapter 13 &lt;/span&gt;&lt;span style="font-size: 11pt; font-family: HelveticaNeueLTStd; font-weight: bold; color: #272425;"&gt;– Making Your Application Mobile Duration: 15 minutes &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;You can download &amp;#34;XCode&amp;#34; apps from App store to emulate into Iphone/Ipad.&lt;/p&gt;
+&lt;div class="page" title="Page 40"&gt;
+&lt;div class="section"&gt;
+&lt;div class="layoutArea"&gt;
+&lt;div class="column"&gt;
+&lt;p&gt;&lt;span style="font-size: 11pt; font-family: HelveticaNeueLTStd; font-weight: bold; color: #c32027;"&gt;Chapter 14 &lt;/span&gt;&lt;span style="font-size: 11pt; font-family: HelveticaNeueLTStd; font-weight: bold; color: #272425;"&gt;– Making Your Application Social Duration: 10 minutes&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;Requirement : Social IT Plugin have to be activated.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div class="page" style="color: #000000; font-family: Arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;" title="Page 43"&gt;
+&lt;div class="section"&gt;
+&lt;div class="layoutArea"&gt;
+&lt;div class="column"&gt; &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style="color: #000000; font-family: Arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"&gt;&lt;span style="font-size: 11pt; font-family: HelveticaNeueLTStd; font-weight: bold; color: #c32027;"&gt;Chapter 16 &lt;/span&gt;&lt;span style="font-size: 11pt; font-family: HelveticaNeueLTStd; font-weight: bold; color: #272425;"&gt;– Building a Custom User Interface Duration: 15 minutes&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Look after the code attached (Jelly Code for Custom User Interface.html) (Sublime Text 2 is a nice code editor to open it).&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;Look after the code attached (&lt;/span&gt;Processing Script example.js)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;]]&gt;&lt;/course_detail&gt;
+        &lt;course_type/&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;estimated_time_to_complete/&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;follow_up_record display_value="FLW0001007"&gt;91a304ec1b2200105c01dd3cdc4bcb3c&lt;/follow_up_record&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;knowledge_required&gt;&lt;![CDATA[&lt;p&gt;&lt;/p&gt;]]&gt;&lt;/knowledge_required&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;FLC0001042&lt;/number&gt;
+        &lt;objective/&gt;
+        &lt;opened_at&gt;2020-01-21 08:33:35&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Induction Task #A PaaS &amp;amp; Application Creator&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;sn_esign_document/&gt;
+        &lt;sn_esign_esignature_configuration/&gt;
+        &lt;sn_hr_le_activity/&gt;
+        &lt;state&gt;11&lt;/state&gt;
+        &lt;suggested_consultant_grade/&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_follow_up_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-21 08:33:35&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;962794a41be200105c01dd3cdc4bcba6&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-21 13:10:43&lt;/sys_updated_on&gt;
+        &lt;test_case&gt;&lt;![CDATA[&lt;p&gt;&lt;/p&gt;]]&gt;&lt;/test_case&gt;
+        &lt;time_worked/&gt;
+        &lt;trainee_instructions/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_follow_up_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 12:26:25</sys_created_on>
+        <sys_id>5a39e4a11b6a00105c01dd3cdc4bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FLC0001042</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_5a39e4a11b6a00105c01dd3cdc4bcb01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 12:26:25</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

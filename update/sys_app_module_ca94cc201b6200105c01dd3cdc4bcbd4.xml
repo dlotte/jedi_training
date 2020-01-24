@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Follow-up courses">c69448ec1b2200105c01dd3cdc4bcb15</application>
+        <application display_value="Training path">424d3a041b6200105c01dd3cdc4bcb3d</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -13,7 +13,7 @@
         <mobile_title>Follow-up courses</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_9001_jedi_path_follow_up_courses</name>
-        <order/>
+        <order>320</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ca94cc201b6200105c01dd3cdc4bcbd4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Follow-up courses</sys_name>
         <sys_overrides/>
         <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_update_name>sys_app_module_ca94cc201b6200105c01dd3cdc4bcbd4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 07:12:28</sys_updated_on>
+        <sys_updated_on>2020-01-24 10:54:23</sys_updated_on>
         <timeline_page/>
         <title>Follow-up courses</title>
         <uncancelable>false</uncancelable>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>834f07841be200105c01dd3cdc4bcbb8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_9001_jedi_path_activity_type">
+    <x_9001_jedi_path_activity_type action="INSERT_OR_UPDATE">
+        <name>Technical</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 08:41:13</sys_created_on>
+        <sys_id>834f07841be200105c01dd3cdc4bcbb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 08:41:13</sys_updated_on>
+    </x_9001_jedi_path_activity_type>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 12:25:40</sys_created_on>
+        <sys_id>170960a11b6a00105c01dd3cdc4bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_170960a11b6a00105c01dd3cdc4bcb47</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 12:25:40</sys_updated_on>
+        <tablename>x_9001_jedi_path_activity_type</tablename>
+    </sys_metadata_link>
+</record_update>
