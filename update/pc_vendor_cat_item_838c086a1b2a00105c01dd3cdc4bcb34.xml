@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pc_vendor_cat_item">
+    <pc_vendor_cat_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <features/>
+        <list_price>0</list_price>
+        <model display_value="25A Blade Fuse">e962a85ddbaf63000f3228f3ca9619fb</model>
+        <name>25A Blade Fuse (Acer - a)</name>
+        <out_of_stock>false</out_of_stock>
+        <picture/>
+        <price>0</price>
+        <product_catalog_item display_value="25A Blade Fuse">c43c082a1b2a00105c01dd3cdc4bcb32</product_catalog_item>
+        <product_id>a</product_id>
+        <short_description/>
+        <specs/>
+        <sys_class_name>pc_vendor_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-27 12:55:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>838c086a1b2a00105c01dd3cdc4bcb34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>25A Blade Fuse (Acer - a)</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>pc_vendor_cat_item_838c086a1b2a00105c01dd3cdc4bcb34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-27 12:55:29</sys_updated_on>
+        <upc/>
+        <vendor display_value="Acer">820351a1c0a8018b67c73d51c074097c</vendor>
+    </pc_vendor_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=838c086a1b2a00105c01dd3cdc4bcb34"/>
+</record_update>

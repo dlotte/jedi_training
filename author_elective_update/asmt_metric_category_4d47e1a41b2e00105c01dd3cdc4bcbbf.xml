@@ -30,7 +30,7 @@
         <total_metrics/>
         <weight>10</weight>
     </asmt_metric_category>
-    <sys_translated_text action="delete_multiple" query="documentkey=4d47e1a41b2e00105c01dd3cdc4bcbbf"/>
+    <sys_translated_text action="DELETE" query="documentkey=4d47e1a41b2e00105c01dd3cdc4bcbbf"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>

@@ -77,7 +77,7 @@ gs.addInfoMessage(current.state.changesTo());
         <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=be9499e01baa00105c01dd3cdc4bcbfe"/>
+    <sys_translated_text action="DELETE" query="documentkey=be9499e01baa00105c01dd3cdc4bcbfe"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">f34d7a041b6200105c01dd3cdc4bcbb0</embedded_screen>
-        <form display_value="Courses Form Screen">ff4d7a041b6200105c01dd3cdc4bcbaf</form>
+        <form display_value="Courses">ff4d7a041b6200105c01dd3cdc4bcbaf</form>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>

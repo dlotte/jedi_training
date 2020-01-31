@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="activity_type" table="x_9001_jedi_path_courses_package" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>activity_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical</label>
+            <language>en</language>
+            <name>x_9001_jedi_path_courses_package</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-29 21:18:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3e250931b6240105c01dd3cdc4bcb9a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-29 21:18:40</sys_updated_on>
+            <value>technical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>activity_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solution</label>
+            <language>en</language>
+            <name>x_9001_jedi_path_courses_package</name>
+            <sequence>200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-29 21:18:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7b250171b6240105c01dd3cdc4bcb5e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-29 21:18:28</sys_updated_on>
+            <value>solution</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>activity_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pre sales</label>
+            <language>en</language>
+            <name>x_9001_jedi_path_courses_package</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-29 21:17:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52a254d31b6240105c01dd3cdc4bcbcf</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-29 21:18:16</sys_updated_on>
+            <value>pre_sales</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>activity_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales</label>
+            <language>en</language>
+            <name>x_9001_jedi_path_courses_package</name>
+            <sequence>400</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-29 21:17:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d08254d31b6240105c01dd3cdc4bcbce</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-29 21:17:28</sys_updated_on>
+            <value>sales</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>activity_type</element>
+            <name>x_9001_jedi_path_courses_package</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-29 21:17:12</sys_created_on>
+            <sys_id>16a29c931b6240105c01dd3cdc4bcb55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>activity_type</sys_name>
+            <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+            <sys_update_name>sys_choice_x_9001_jedi_path_courses_package_activity_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-29 21:17:12</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

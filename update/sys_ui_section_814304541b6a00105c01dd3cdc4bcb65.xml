@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-20 12:28:10</sys_created_on>
-            <sys_id>854304541b6a00105c01dd3cdc4bcb6d</sys_id>
+            <sys_created_on>2020-01-27 09:59:05</sys_created_on>
+            <sys_id>9144eb521b2600105c01dd3cdc4bcb1d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_m2m_courses_courses_packages" sys_domain="global" view="Default view">814304541b6a00105c01dd3cdc4bcb65</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-20 12:28:10</sys_updated_on>
+            <sys_updated_on>2020-01-27 09:59:05</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>courses</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-20 12:28:10</sys_created_on>
-            <sys_id>0d4304541b6a00105c01dd3cdc4bcb6d</sys_id>
+            <sys_created_on>2020-01-27 09:59:05</sys_created_on>
+            <sys_id>5944eb521b2600105c01dd3cdc4bcb1d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_m2m_courses_courses_packages" sys_domain="global" view="Default view">814304541b6a00105c01dd3cdc4bcb65</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-20 12:28:10</sys_updated_on>
+            <sys_updated_on>2020-01-27 09:59:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-20 12:28:10</sys_created_on>
-            <sys_id>8d4304541b6a00105c01dd3cdc4bcb6d</sys_id>
+            <sys_created_on>2020-01-27 09:59:05</sys_created_on>
+            <sys_id>d944eb521b2600105c01dd3cdc4bcb1d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_m2m_courses_courses_packages" sys_domain="global" view="Default view">814304541b6a00105c01dd3cdc4bcb65</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-20 12:28:10</sys_updated_on>
+            <sys_updated_on>2020-01-27 09:59:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>courses_package</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-20 12:28:10</sys_created_on>
-            <sys_id>014304541b6a00105c01dd3cdc4bcb6e</sys_id>
+            <sys_created_on>2020-01-27 09:59:05</sys_created_on>
+            <sys_id>5d44eb521b2600105c01dd3cdc4bcb1d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_m2m_courses_courses_packages" sys_domain="global" view="Default view">814304541b6a00105c01dd3cdc4bcb65</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-20 12:28:10</sys_updated_on>
+            <sys_updated_on>2020-01-27 09:59:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,15 +60,29 @@
             <element>.end_split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-20 12:28:10</sys_created_on>
-            <sys_id>814304541b6a00105c01dd3cdc4bcb6e</sys_id>
+            <sys_created_on>2020-01-27 09:59:05</sys_created_on>
+            <sys_id>dd44eb521b2600105c01dd3cdc4bcb1d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_m2m_courses_courses_packages" sys_domain="global" view="Default view">814304541b6a00105c01dd3cdc4bcb65</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-20 12:28:10</sys_updated_on>
+            <sys_updated_on>2020-01-27 09:59:05</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-27 09:59:05</sys_created_on>
+            <sys_id>5144eb521b2600105c01dd3cdc4bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_m2m_courses_courses_packages" sys_domain="global" view="Default view">814304541b6a00105c01dd3cdc4bcb65</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-27 09:59:05</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

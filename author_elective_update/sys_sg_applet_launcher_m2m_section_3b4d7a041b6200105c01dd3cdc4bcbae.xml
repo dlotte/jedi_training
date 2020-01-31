@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="CloudSpirit Training Program">af4dfac41b2200105c01dd3cdc4bcb33</applet_launcher>
+        <order>10</order>
+        <section display_value="Courses package">774d7a041b6200105c01dd3cdc4bcbad</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 07:22:32</sys_created_on>
+        <sys_id>3b4d7a041b6200105c01dd3cdc4bcbae</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_3b4d7a041b6200105c01dd3cdc4bcbae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-30 20:42:16</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_3b4d7a041b6200105c01dd3cdc4bcbae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="CloudSpirit Training Program">af4dfac41b2200105c01dd3cdc4bcb33</applet_launcher><order>10</order><section display_value="Courses package">774d7a041b6200105c01dd3cdc4bcbad</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-20 07:22:32</sys_created_on><sys_id>3b4d7a041b6200105c01dd3cdc4bcbae</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package><sys_policy/><sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_3b4d7a041b6200105c01dd3cdc4bcbae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-30 20:42:16</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-1793844779</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>703c724c1b2200105c01dd3cdc4bcb53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-30 20:42:16</sys_created_on>
+        <sys_id>4444156b1b66c0105c01dd3cdc4bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ff830a91b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-30 20:42:16</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>0c44156b9466c0105a2be220e1c94f92</update_guid>
+        <update_guid_history>0c44156b9466c0105a2be220e1c94f92:-1793844779,65315d236c66c01052f9dc22d51d2c55:924347905,3b4dba04f46200108722d7328d9bcc0b:-959603757</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-30 20:43:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>1d19d1885a7947f9859a2a8b26d16191</sys_id>
+        <sys_metadata>3b4d7a041b6200105c01dd3cdc4bcbae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_3b4d7a041b6200105c01dd3cdc4bcbae</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_3b4d7a041b6200105c01dd3cdc4bcbae">4444156b1b66c0105c01dd3cdc4bcb93</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-30 20:43:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

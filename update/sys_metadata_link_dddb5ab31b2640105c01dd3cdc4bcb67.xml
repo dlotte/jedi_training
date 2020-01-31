@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6a90e02f1bee80105c01dd3cdc4bcb5b</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_follow_up_courses"&gt;
+    &lt;x_9001_jedi_path_follow_up_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type/&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to display_value="Tom Jeanniot"&gt;fb27ea9b1b6280105c01dd3cdc4bcb37&lt;/assigned_to&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at/&gt;
+        &lt;closed_by/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;coach_instructions_tips&gt;&lt;![CDATA[&lt;p&gt;&lt;/p&gt;]]&gt;&lt;/coach_instructions_tips&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;cours_package/&gt;
+        &lt;course_detail/&gt;
+        &lt;course_type/&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;estimated_time_to_complete/&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;follow_up_record display_value="FLW0001027"&gt;d8d7d4271bae80105c01dd3cdc4bcb12&lt;/follow_up_record&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;knowledge_required&gt;&lt;![CDATA[&lt;p&gt;&lt;/p&gt;]]&gt;&lt;/knowledge_required&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;FLC0001161&lt;/number&gt;
+        &lt;objective/&gt;
+        &lt;opened_at&gt;2020-01-30 16:56:36&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;How to use the knowledge base&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;sn_esign_document/&gt;
+        &lt;sn_esign_esignature_configuration/&gt;
+        &lt;sn_hr_le_activity/&gt;
+        &lt;state&gt;1&lt;/state&gt;
+        &lt;suggested_consultant_grade/&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_follow_up_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-30 16:56:36&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;6a90e02f1bee80105c01dd3cdc4bcb5b&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-30 16:56:36&lt;/sys_updated_on&gt;
+        &lt;test_case&gt;&lt;![CDATA[&lt;p&gt;User experience&lt;/p&gt;]]&gt;&lt;/test_case&gt;
+        &lt;time_worked/&gt;
+        &lt;trainee_instructions&gt;&lt;![CDATA[&lt;p data-tinymcerootblock=""&gt;&lt;p&gt;Watch this video : &lt;a href="https://www.youtube.com/watch?v=jtRHYLBbUXU&amp;list=PLCOmiTb5WX3qwce6HwJNOHWgrjglZKEpD&amp;index=5" title="link"&gt;link&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;]]&gt;&lt;/trainee_instructions&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_follow_up_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 20:33:29</sys_created_on>
+        <sys_id>dddb5ab31b2640105c01dd3cdc4bcb67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FLC0001161</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_dddb5ab31b2640105c01dd3cdc4bcb67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 20:33:29</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

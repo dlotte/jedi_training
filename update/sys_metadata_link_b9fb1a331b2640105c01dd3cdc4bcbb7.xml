@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>10c15fde1b6200105c01dd3cdc4bcba7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_9001_jedi_path_m2m_courses_courses_packages">
+    <x_9001_jedi_path_m2m_courses_courses_packages action="INSERT_OR_UPDATE">
+        <courses display_value="COU0001054">5d71971e1b6200105c01dd3cdc4bcbe2</courses>
+        <courses_package display_value="COP0001004">8d3b65ac1b2e00105c01dd3cdc4bcb18</courses_package>
+        <order/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-27 08:38:11</sys_created_on>
+        <sys_id>10c15fde1b6200105c01dd3cdc4bcba7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-27 08:38:11</sys_updated_on>
+    </x_9001_jedi_path_m2m_courses_courses_packages>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 20:34:04</sys_created_on>
+        <sys_id>b9fb1a331b2640105c01dd3cdc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_b9fb1a331b2640105c01dd3cdc4bcbb7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 20:34:04</sys_updated_on>
+        <tablename>x_9001_jedi_path_m2m_courses_courses_pac</tablename>
+    </sys_metadata_link>
+</record_update>

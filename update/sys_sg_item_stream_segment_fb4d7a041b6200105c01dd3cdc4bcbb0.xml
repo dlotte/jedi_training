@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Courses Item Stream Segment</name>
         <order>0</order>
-        <screen display_value="Coursess">fb4d7a041b6200105c01dd3cdc4bcbaf</screen>
+        <screen display_value="All courses">fb4d7a041b6200105c01dd3cdc4bcbaf</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-20 07:22:32</sys_created_on>

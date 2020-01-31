@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>My open courses</name>
+        <query_condition table="x_9001_jedi_path_follow_up_courses">state=1<item display_value="Open" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 10:11:16</sys_created_on>
+        <sys_id>766d083f1be200105c01dd3cdc4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My open courses</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_sg_data_item_766d083f1be200105c01dd3cdc4bcb0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 10:11:16</sys_updated_on>
+        <table>x_9001_jedi_path_follow_up_courses</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=766d083f1be200105c01dd3cdc4bcb0f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_sg_data_item_766d083f1be200105c01dd3cdc4bcb0f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><name>My open courses</name><query_condition table="x_9001_jedi_path_follow_up_courses">state=1<item display_value="Open" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-31 10:11:16</sys_created_on><sys_id>766d083f1be200105c01dd3cdc4bcb0f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My open courses</sys_name><sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package><sys_policy/><sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope><sys_update_name>sys_sg_data_item_766d083f1be200105c01dd3cdc4bcb0f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-31 10:11:16</sys_updated_on><table>x_9001_jedi_path_follow_up_courses</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=766d083f1be200105c01dd3cdc4bcb0f"/></record_update>]]></payload>
+        <payload_hash>-141666281</payload_hash>
+        <record_name>My open courses</record_name>
+        <reverted_from/>
+        <source>703c724c1b2200105c01dd3cdc4bcb53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 10:11:16</sys_created_on>
+        <sys_id>fe6d083f1be200105c01dd3cdc4bcb11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ffb15552d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 10:11:16</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>f66d083f75e20010b851d9ef187b1311</update_guid>
+        <update_guid_history>f66d083f75e20010b851d9ef187b1311:-141666281</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 10:33:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>7da2e9cbd18645a4989a7af08e1ed444</sys_id>
+        <sys_metadata>766d083f1be200105c01dd3cdc4bcb0f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My open courses</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_766d083f1be200105c01dd3cdc4bcb0f</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_766d083f1be200105c01dd3cdc4bcb0f">fe6d083f1be200105c01dd3cdc4bcb11</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 10:33:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

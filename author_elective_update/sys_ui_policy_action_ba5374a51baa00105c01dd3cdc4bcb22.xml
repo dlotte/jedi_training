@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>assessment</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 13:10:56</sys_created_on>
+        <sys_id>ba5374a51baa00105c01dd3cdc4bcb22</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>assessment</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ba5374a51baa00105c01dd3cdc4bcb22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 13:11:05</sys_updated_on>
+        <table>x_9001_jedi_path_follow_up</table>
+        <ui_policy display_value="Display survey">094370a51baa00105c01dd3cdc4bcbed</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_ui_policy_action_ba5374a51baa00105c01dd3cdc4bcb22</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>assessment</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-24 13:10:56</sys_created_on><sys_id>ba5374a51baa00105c01dd3cdc4bcb22</sys_id><sys_mod_count>1</sys_mod_count><sys_name>assessment</sys_name><sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package><sys_policy/><sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope><sys_update_name>sys_ui_policy_action_ba5374a51baa00105c01dd3cdc4bcb22</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-24 13:11:05</sys_updated_on><table>x_9001_jedi_path_follow_up</table><ui_policy display_value="Display survey">094370a51baa00105c01dd3cdc4bcbed</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1749739908</payload_hash>
+        <record_name>assessment</record_name>
+        <reverted_from/>
+        <source>703c724c1b2200105c01dd3cdc4bcb53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 13:11:05</sys_created_on>
+        <sys_id>6c7338a51baa00105c01dd3cdc4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fd7ad6f100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 13:11:05</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>247338a540aa0010b21105e498cd560e</update_guid>
+        <update_guid_history>247338a540aa0010b21105e498cd560e:1749739908,e26334a5a9aa001040625131d5b4211a:-1383358429</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 13:12:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>0031606699164d288018b2566aeb9524</sys_id>
+        <sys_metadata>ba5374a51baa00105c01dd3cdc4bcb22</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assessment</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_ba5374a51baa00105c01dd3cdc4bcb22</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_ba5374a51baa00105c01dd3cdc4bcb22">6c7338a51baa00105c01dd3cdc4bcb0e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 13:12:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

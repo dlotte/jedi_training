@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Follow-up" max_length="40" name="x_9001_jedi_path_follow_up" type="collection">
+        <element attributes="encode_utf8=false" label="Assessment" max_length="32" name="assessment" read_only="true" reference="asmt_assessment_instance" type="reference"/>
         <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <element label="Coach" max_length="32" name="coach" reference="sys_user" type="reference"/>
         <element label="Course package" max_length="32" name="course_package" reference="x_9001_jedi_path_courses_package" type="reference"/>
@@ -15,15 +16,18 @@
         </element>
         <element label="Target instance" max_length="32" name="target_instance" reference="x_9001_jedi_path_target_instance" type="reference"/>
         <index name="index">
-            <element name="target_instance"/>
+            <element name="assessment"/>
         </index>
         <index name="index2">
-            <element name="coach"/>
+            <element name="target_instance"/>
         </index>
         <index name="index3">
-            <element name="course_package"/>
+            <element name="coach"/>
         </index>
         <index name="index4">
+            <element name="course_package"/>
+        </index>
+        <index name="index5">
             <element name="assigned_to"/>
         </index>
     </element>

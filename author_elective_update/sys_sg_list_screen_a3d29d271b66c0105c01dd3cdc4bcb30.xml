@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>true</available_offline>
+        <description>Create, update and package courses</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="Admin land Icon">abd291271b66c0105c01dd3cdc4bcb84</icon>
+        <name>Admin land</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-30 20:36:22</sys_created_on>
+        <sys_id>a3d29d271b66c0105c01dd3cdc4bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Admin land</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_sg_list_screen_a3d29d271b66c0105c01dd3cdc4bcb30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-30 20:36:22</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=a3d29d271b66c0105c01dd3cdc4bcb30"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_sg_list_screen_a3d29d271b66c0105c01dd3cdc4bcb30</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>true</available_offline><description>Create, update and package courses</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hide_filters>false</hide_filters><icon display_value="Admin land Icon">abd291271b66c0105c01dd3cdc4bcb84</icon><name>Admin land</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-30 20:36:22</sys_created_on><sys_id>a3d29d271b66c0105c01dd3cdc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Admin land</sys_name><sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package><sys_policy/><sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope><sys_update_name>sys_sg_list_screen_a3d29d271b66c0105c01dd3cdc4bcb30</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-30 20:36:22</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=a3d29d271b66c0105c01dd3cdc4bcb30"/></record_update>]]></payload>
+        <payload_hash>485773097</payload_hash>
+        <record_name>Admin land</record_name>
+        <reverted_from/>
+        <source>703c724c1b2200105c01dd3cdc4bcb53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-30 20:36:22</sys_created_on>
+        <sys_id>71e25d271b66c0105c01dd3cdc4bcb90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ff82b44360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-30 20:36:22</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>79e25d272b66c010d3074ece8af9858f</update_guid>
+        <update_guid_history>79e25d272b66c010d3074ece8af9858f:485773097</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-30 20:42:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>4e6a1d0d3b944b3ab3bc07c7eb0d1ec4</sys_id>
+        <sys_metadata>a3d29d271b66c0105c01dd3cdc4bcb30</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Admin land</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_a3d29d271b66c0105c01dd3cdc4bcb30</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_a3d29d271b66c0105c01dd3cdc4bcb30">71e25d271b66c0105c01dd3cdc4bcb90</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-30 20:42:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

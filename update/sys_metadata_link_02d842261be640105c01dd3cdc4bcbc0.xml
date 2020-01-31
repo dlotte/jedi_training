@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c947db441b2600105c01dd3cdc4bcba7</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_courses"&gt;
+    &lt;x_9001_jedi_path_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type&gt;sales,pre_sales,solution,technical&lt;/activity_type&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to/&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at&gt;2020-01-20 09:15:56&lt;/closed_at&gt;
+        &lt;closed_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/closed_by&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;coach_instructions_tips/&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;course_detail&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Objective for Trainee&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pass through induction tasks and get hands-on experience.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective for Coach&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Evaluate Trainee Service-Now skills.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The progress of your induction process will be followed by a coach and will be tracked on this instance. Take into account you will be using the same tools and platform as we are using on the projects with the customer. For more details, please see tasks 5 and 6.&lt;/p&gt;
+&lt;p&gt;NOTE: depending on your role (TC: Technical Consultant, SC: Solution Consultant) you may require to do either all Induction Tasks (for TC) or just some of them (SC).&lt;/p&gt;
+&lt;p&gt;You must read &amp;#34;Fruition Partners development and coding guidelines&amp;#34; before starting Induction Tasks and always follow it. You will find it on &lt;a href="https://dxcportal.sharepoint.com/:w:/r/sites/frueu/_layouts/15/WopiFrame.aspx?sourcedoc&amp;#61;%7B0046d253-4082-4476-a273-b87321662039%7D&amp;amp;action&amp;#61;default" rel="nofollow"&gt;https://dxcportal.sharepoint.com/:w:/r/sites/frueu/_layouts/15/WopiFrame.aspx?sourcedoc&amp;#61;%7B0046d253-4082-4476-a273-b87321662039%7D&amp;amp;action&amp;#61;default&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You must also follow ServiceNow best practises and will find them here: &lt;a href="https://developer.servicenow.com/app.do#!/catlist/Technical%20Best%20Practices?v&amp;#61;jakarta" rel="nofollow"&gt;https://developer.servicenow.com/app.do#!/catlist/Technical%20Best%20Practices?v&amp;#61;jakarta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Steps to follow:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(1) Get account in aspediens.service-now.com. Ask Coach to assist you if necessary.&lt;/p&gt;
+&lt;p&gt;(2) Go to developer.servicenow.com. Register yourself. Once you are registered and connected, go to the &amp;#34;Manage&amp;#34; option and ask for the ServiceNow instance of the latest available version (release). &lt;br /&gt; Create admin account for Coach and Trainee, Inactivate other instance admins.&lt;/p&gt;
+&lt;p&gt;(3) Create a new Release named &amp;#34;Induction tasks XXX&amp;#34; with the adequate assignment group. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;]]&gt;&lt;/course_detail&gt;
+        &lt;course_type/&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;estimated_time_to_complete/&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;knowledge_required/&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;COU0001041&lt;/number&gt;
+        &lt;objective/&gt;
+        &lt;opened_at&gt;2020-01-20 09:15:56&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Induction Task #00 Instructions&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;sn_esign_document/&gt;
+        &lt;sn_esign_esignature_configuration/&gt;
+        &lt;sn_hr_le_activity/&gt;
+        &lt;state&gt;1&lt;/state&gt;
+        &lt;suggested_consultant_grade&gt;junior,confirmed,senior&lt;/suggested_consultant_grade&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-20 09:15:56&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;c947db441b2600105c01dd3cdc4bcba7&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-28 14:16:52&lt;/sys_updated_on&gt;
+        &lt;test_case/&gt;
+        &lt;time_worked/&gt;
+        &lt;trainee_instructions/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-27 21:58:07</sys_created_on>
+        <sys_id>02d842261be640105c01dd3cdc4bcbc0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>COU0001041</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_02d842261be640105c01dd3cdc4bcbc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-29 21:13:02</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

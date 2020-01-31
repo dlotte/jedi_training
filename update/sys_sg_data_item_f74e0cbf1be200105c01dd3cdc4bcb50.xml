@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>My completed training courses</name>
+        <query_condition table="x_9001_jedi_path_follow_up_courses">state=11^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item display_value="Done" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="11"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 10:15:09</sys_created_on>
+        <sys_id>f74e0cbf1be200105c01dd3cdc4bcb50</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My completed training courses</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_sg_data_item_f74e0cbf1be200105c01dd3cdc4bcb50</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 20:07:21</sys_updated_on>
+        <table>x_9001_jedi_path_follow_up_courses</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=f74e0cbf1be200105c01dd3cdc4bcb50"/>
+</record_update>

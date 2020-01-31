@@ -4,7 +4,11 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Activity type" label="Activity type" max_length="1024" name="u_activity_type" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Course detail" label="Course detail" max_length="65536" name="u_course_detail" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="4000" name="u_description" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="160" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Objective" max_length="4000" name="u_objective" type="string"/>
+        <element label="Order" max_length="40" name="u_order" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="4000" name="u_short_description" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test case" max_length="4000" name="u_test_case" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Trainee  Instructions" max_length="4000" name="u_trainee__instructions" type="string"/>
     </element>
 </database>

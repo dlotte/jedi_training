@@ -11,7 +11,7 @@
         <description/>
         <internal_name>create_followup_courses</internal_name>
         <label_cache>[{"name":"Updated_1.current.assigned_to","label":"Trigger➛Follow-up Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_9001_jedi_path_follow_up","column_name":"assigned_to"},{"name":"a1a095e4-2948-456a-9a9c-264501899f76.item.courses.course_detail","label":"2➛Courses in Packages Record➛Courses➛Course detail","reference":"","reference_display":"Course detail","type":"translated_html","base_type":"translated_html","parent_table_name":"x_9001_jedi_path_courses","column_name":"course_detail"},{"name":"Updated_1.current","label":"Trigger➛Follow-up Record","reference":"x_9001_jedi_path_follow_up","reference_display":"Follow-up","type":"reference","base_type":"reference"},{"name":"a1a095e4-2948-456a-9a9c-264501899f76.item.courses.estimated_time_to_complete","label":"2➛Courses in Packages Record➛Courses➛Estimated time to complete","reference":"","reference_display":"Estimated time to complete","type":"glide_duration","base_type":"glide_duration","parent_table_name":"x_9001_jedi_path_courses","column_name":"estimated_time_to_complete"},{"name":"a1a095e4-2948-456a-9a9c-264501899f76.item.courses.short_description","label":"2➛Courses in Packages Record➛Courses➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_9001_jedi_path_courses","column_name":"short_description"},{"name":"Updated_1.current.course_package","label":"Trigger➛Follow-up Record➛Course package","reference":"x_9001_jedi_path_courses_package","reference_display":"Courses package","type":"reference","base_type":"reference","parent_table_name":"x_9001_jedi_path_follow_up","column_name":"course_package"},{"name":"f185ea1c-70c1-485d-9e51-65e022819a85.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"f185ea1c-70c1-485d-9e51-65e022819a85.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"f185ea1c-70c1-485d-9e51-65e022819a85.Records","label":"1➛Courses in Packages Records","reference":"x_9001_jedi_path_m2m_courses_courses_packages","reference_display":"Courses in Packages","type":"records","base_type":"records"},{"name":"a1a095e4-2948-456a-9a9c-264501899f76.item.courses.objective","label":"2➛Courses in Packages Record➛Courses➛Objective","reference":"","reference_display":"Objective","type":"string","base_type":"string","parent_table_name":"x_9001_jedi_path_courses","column_name":"objective"},{"name":"c85dc90e-918c-4027-b388-64ce20c53f30.table_name","label":"2.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"c85dc90e-918c-4027-b388-64ce20c53f30.record","label":"2.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"a1a095e4-2948-456a-9a9c-264501899f76.item","label":"2➛Courses in Packages Record","reference":"x_9001_jedi_path_m2m_courses_courses_packages","reference_display":"Courses in Packages","type":"reference","base_type":"reference"},{"name":"9bee3b27-a0e1-4075-bb07-8dbdceb5aa60.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"9bee3b27-a0e1-4075-bb07-8dbdceb5aa60.Table","label":"1➛Courses in Packages Table","reference":"x_9001_jedi_path_m2m_courses_courses_packages","reference_display":"Courses in Packages","type":"table_name","base_type":"table_name"},{"name":"9bee3b27-a0e1-4075-bb07-8dbdceb5aa60.Records","label":"1➛Courses in Packages Records","reference":"x_9001_jedi_path_m2m_courses_courses_packages","reference_display":"Courses in Packages","type":"records","base_type":"records"},{"name":"e13788bf-0c59-4554-9e6c-4e389f57772e.item","label":"1➛Courses package Record","reference":"x_9001_jedi_path_courses_package","reference_display":"Courses package","type":"reference","base_type":"reference"},{"name":"Updated_1.current.cours_package","label":"Trigger➛Follow-up courses Record➛Cours package","reference":"x_9001_jedi_path_courses_package","reference_display":"Courses package","type":"reference","base_type":"reference","parent_table_name":"x_9001_jedi_path_follow_up_courses","column_name":"cours_package"},{"name":"be0a38ec-695c-4e22-8e11-84c60dc68199.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"be0a38ec-695c-4e22-8e11-84c60dc68199.Table","label":"1➛Courses in Packages Table","reference":"x_9001_jedi_path_m2m_courses_courses_packages","reference_display":"Courses in Packages","type":"table_name","base_type":"table_name"},{"name":"be0a38ec-695c-4e22-8e11-84c60dc68199.Records","label":"1➛Courses in Packages Records","reference":"x_9001_jedi_path_m2m_courses_courses_packages","reference_display":"Courses in Packages","type":"records","base_type":"records"},{"name":"e46da687-00c5-4705-ae9d-cfc597c8c5ef.table_name","label":"1.1➛Follow-up courses Table","reference":"x_9001_jedi_path_follow_up_courses","reference_display":"Follow-up courses","type":"table_name","base_type":"table_name"},{"name":"e46da687-00c5-4705-ae9d-cfc597c8c5ef.record","label":"1.1➛Follow-up courses Record","reference":"x_9001_jedi_path_follow_up_courses","reference_display":"Follow-up courses","type":"reference","base_type":"reference"}]</label_cache>
-        <latest_snapshot>b52794a41be200105c01dd3cdc4bcb2b</latest_snapshot>
+        <latest_snapshot>4690a02f1bee80105c01dd3cdc4bcb91</latest_snapshot>
         <master_snapshot>2d9f04e41ba200105c01dd3cdc4bcb7a</master_snapshot>
         <name>Create follow-up courses</name>
         <outputs/>
@@ -27,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d79a88681b6200105c01dd3cdc4bcbfd</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_name>Create follow-up courses</sys_name>
         <sys_overrides/>
         <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_update_name>sys_hub_flow_d79a88681b6200105c01dd3cdc4bcbfd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:58</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:39</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=d79a88681b6200105c01dd3cdc4bcbfd"/>
@@ -85,10 +85,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:22</sys_created_on>
         <sys_id>2b8f80e41ba200105c01dd3cdc4bcbcf</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:58</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:39</sys_updated_on>
         <ui_id>a1a095e4-2948-456a-9a9c-264501899f76</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -123,10 +123,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:22:27</sys_created_on>
         <sys_id>4f9458201be200105c01dd3cdc4bcb72</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:33:34</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:56:35</sys_updated_on>
         <ui_id>f185ea1c-70c1-485d-9e51-65e022819a85</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4f9458201be200105c01dd3cdc4bcb72"/>
@@ -222,10 +222,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:22</sys_created_on>
         <sys_id>eb8f80e41ba200105c01dd3cdc4bcbcc</sys_id>
-        <sys_mod_count>50</sys_mod_count>
+        <sys_mod_count>58</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:33:34</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:56:35</sys_updated_on>
         <ui_id>c85dc90e-918c-4027-b388-64ce20c53f30</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=eb8f80e41ba200105c01dd3cdc4bcbcc"/>
@@ -300,11 +300,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:29</sys_created_on>
         <sys_id>559f04e41ba200105c01dd3cdc4bcb4c</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:52</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:53:00</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>state=1^objective={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.objective}}^short_description={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.short_description}}^estimated_time_to_complete={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.estimated_time_to_complete}}^follow_up_record={{Updated_1.current}}^coach_instructions_tips=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;2➛Courses in Packages Record➛Courses➛Coach Instructions Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^course_detail={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.course_detail}}^test_case=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;2➛Courses in Packages Record➛Courses➛Test case&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^knowledge_required=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;2➛Courses in Packages Record➛Courses➛Knowledge Required&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^assigned_to={{Updated_1.current.assigned_to}}^=</value>
+        <value>state=1^objective={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.objective}}^short_description={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.short_description}}^estimated_time_to_complete={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.estimated_time_to_complete}}^follow_up_record={{Updated_1.current}}^coach_instructions_tips=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;2➛Courses in Packages Record➛Courses➛Coach Instructions Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^course_detail={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.course_detail}}^test_case=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;2➛Courses in Packages Record➛Courses➛Test case&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^knowledge_required=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;2➛Courses in Packages Record➛Courses➛Knowledge Required&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^assigned_to={{Updated_1.current.assigned_to}}^trainee_instructions=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="b6fa37b0-8142-4695-96b2-33be92e644e5" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.trainee_instructions}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="b6fa37b0-8142-4695-96b2-33be92e644e5" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.trainee_instructions}}"&gt;2➛Courses in Packages Record➛Courses➛Trainee &amp;nbsp;Instructions&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</value>
     </sys_element_mapping>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=d79a88681b6200105c01dd3cdc4bcbfd^sys_idNOT IN53cac0ac1b6200105c01dd3cdc4bcb07"/>
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
@@ -316,10 +316,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 07:39:36</sys_created_on>
         <sys_id>53cac0ac1b6200105c01dd3cdc4bcb07</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:58</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:39</sys_updated_on>
         <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -443,14 +443,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 07:39:36</sys_created_on>
         <sys_id>13ca80ac1b6200105c01dd3cdc4bcbcf</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:58</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:39</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -524,14 +524,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 07:39:35</sys_created_on>
         <sys_id>9bca80ac1b6200105c01dd3cdc4bcbc8</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:58</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:39</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -559,10 +559,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:22:27</sys_created_on>
         <sys_id>4f9458201be200105c01dd3cdc4bcb72</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:33:34</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:56:35</sys_updated_on>
         <ui_id>f185ea1c-70c1-485d-9e51-65e022819a85</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4f9458201be200105c01dd3cdc4bcb72"/>
@@ -658,10 +658,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:22</sys_created_on>
         <sys_id>eb8f80e41ba200105c01dd3cdc4bcbcc</sys_id>
-        <sys_mod_count>50</sys_mod_count>
+        <sys_mod_count>58</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:33:34</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:56:35</sys_updated_on>
         <ui_id>c85dc90e-918c-4027-b388-64ce20c53f30</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=eb8f80e41ba200105c01dd3cdc4bcbcc"/>
@@ -736,11 +736,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:29</sys_created_on>
         <sys_id>559f04e41ba200105c01dd3cdc4bcb4c</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:52</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:53:00</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>state=1^objective={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.objective}}^short_description={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.short_description}}^estimated_time_to_complete={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.estimated_time_to_complete}}^follow_up_record={{Updated_1.current}}^coach_instructions_tips=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;2➛Courses in Packages Record➛Courses➛Coach Instructions Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^course_detail={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.course_detail}}^test_case=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;2➛Courses in Packages Record➛Courses➛Test case&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^knowledge_required=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;2➛Courses in Packages Record➛Courses➛Knowledge Required&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^assigned_to={{Updated_1.current.assigned_to}}^=</value>
+        <value>state=1^objective={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.objective}}^short_description={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.short_description}}^estimated_time_to_complete={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.estimated_time_to_complete}}^follow_up_record={{Updated_1.current}}^coach_instructions_tips=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;2➛Courses in Packages Record➛Courses➛Coach Instructions Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^course_detail={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.course_detail}}^test_case=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;2➛Courses in Packages Record➛Courses➛Test case&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^knowledge_required=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;2➛Courses in Packages Record➛Courses➛Knowledge Required&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^assigned_to={{Updated_1.current.assigned_to}}^trainee_instructions=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="b6fa37b0-8142-4695-96b2-33be92e644e5" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.trainee_instructions}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="b6fa37b0-8142-4695-96b2-33be92e644e5" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.trainee_instructions}}"&gt;2➛Courses in Packages Record➛Courses➛Trainee &amp;nbsp;Instructions&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</value>
     </sys_element_mapping>
     <sys_hub_flow_logic action="delete_multiple" query="flow=d79a88681b6200105c01dd3cdc4bcbfd^sys_idNOT IN2b8f80e41ba200105c01dd3cdc4bcbcf"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
@@ -761,10 +761,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:22</sys_created_on>
         <sys_id>2b8f80e41ba200105c01dd3cdc4bcbcf</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:58</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:39</sys_updated_on>
         <ui_id>a1a095e4-2948-456a-9a9c-264501899f76</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -836,17 +836,17 @@
         <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"d69f04e41ba200105c01dd3cdc4bcbcf","name":"plan"}}</plan>
         <plan_id>d79a88681b6200105c01dd3cdc4bcbfd</plan_id>
-        <snapshot>b52794a41be200105c01dd3cdc4bcb2b</snapshot>
+        <snapshot>4690a02f1bee80105c01dd3cdc4bcb91</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:32</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d69f04e41ba200105c01dd3cdc4bcbcf</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:58</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:38</sys_updated_on>
         <trigger display_value="">da9f04e41ba200105c01dd3cdc4bcbce</trigger>
     </sys_flow_trigger_plan>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
@@ -875,7 +875,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2d9f04e41ba200105c01dd3cdc4bcb7a</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -883,7 +883,7 @@
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:38</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=2d9f04e41ba200105c01dd3cdc4bcb7a"/>
@@ -904,10 +904,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:22:32</sys_created_on>
         <sys_id>50a498201be200105c01dd3cdc4bcbf1</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:38</sys_updated_on>
         <ui_id>f185ea1c-70c1-485d-9e51-65e022819a85</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=50a498201be200105c01dd3cdc4bcbf1"/>
@@ -965,10 +965,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:31</sys_created_on>
         <sys_id>719f04e41ba200105c01dd3cdc4bcbae</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:38</sys_updated_on>
         <ui_id>c85dc90e-918c-4027-b388-64ce20c53f30</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=719f04e41ba200105c01dd3cdc4bcbae"/>
@@ -1005,11 +1005,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:31</sys_created_on>
         <sys_id>f19f04e41ba200105c01dd3cdc4bcbaf</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:37</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>state=1^objective={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.objective}}^short_description={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.short_description}}^estimated_time_to_complete={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.estimated_time_to_complete}}^follow_up_record={{Updated_1.current}}^coach_instructions_tips=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;2➛Courses in Packages Record➛Courses➛Coach Instructions Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^course_detail={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.course_detail}}^test_case=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;2➛Courses in Packages Record➛Courses➛Test case&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^knowledge_required=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;2➛Courses in Packages Record➛Courses➛Knowledge Required&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^assigned_to={{Updated_1.current.assigned_to}}^=</value>
+        <value>state=1^objective={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.objective}}^short_description={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.short_description}}^estimated_time_to_complete={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.estimated_time_to_complete}}^follow_up_record={{Updated_1.current}}^coach_instructions_tips=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;2➛Courses in Packages Record➛Courses➛Coach Instructions Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^course_detail={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.course_detail}}^test_case=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;2➛Courses in Packages Record➛Courses➛Test case&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^knowledge_required=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;2➛Courses in Packages Record➛Courses➛Knowledge Required&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^assigned_to={{Updated_1.current.assigned_to}}^trainee_instructions=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="b6fa37b0-8142-4695-96b2-33be92e644e5" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.trainee_instructions}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="b6fa37b0-8142-4695-96b2-33be92e644e5" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.trainee_instructions}}"&gt;2➛Courses in Packages Record➛Courses➛Trainee &amp;nbsp;Instructions&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</value>
     </sys_element_mapping>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">2f8f80e41ba200105c01dd3cdc4bcbce</block>
@@ -1029,10 +1029,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:30</sys_created_on>
         <sys_id>b59f04e41ba200105c01dd3cdc4bcb99</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:38</sys_updated_on>
         <ui_id>a1a095e4-2948-456a-9a9c-264501899f76</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1062,10 +1062,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:31</sys_created_on>
         <sys_id>799f04e41ba200105c01dd3cdc4bcbaf</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>23</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:58</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:39</sys_updated_on>
         <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -1189,14 +1189,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:30</sys_created_on>
         <sys_id>219f04e41ba200105c01dd3cdc4bcb7d</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:38</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1270,14 +1270,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:30</sys_created_on>
         <sys_id>7d9f04e41ba200105c01dd3cdc4bcb8f</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1305,10 +1305,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:22:32</sys_created_on>
         <sys_id>50a498201be200105c01dd3cdc4bcbf1</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:38</sys_updated_on>
         <ui_id>f185ea1c-70c1-485d-9e51-65e022819a85</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=50a498201be200105c01dd3cdc4bcbf1"/>
@@ -1366,10 +1366,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:31</sys_created_on>
         <sys_id>719f04e41ba200105c01dd3cdc4bcbae</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:38</sys_updated_on>
         <ui_id>c85dc90e-918c-4027-b388-64ce20c53f30</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=719f04e41ba200105c01dd3cdc4bcbae"/>
@@ -1406,11 +1406,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:31</sys_created_on>
         <sys_id>f19f04e41ba200105c01dd3cdc4bcbaf</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:37</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>state=1^objective={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.objective}}^short_description={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.short_description}}^estimated_time_to_complete={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.estimated_time_to_complete}}^follow_up_record={{Updated_1.current}}^coach_instructions_tips=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;2➛Courses in Packages Record➛Courses➛Coach Instructions Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^course_detail={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.course_detail}}^test_case=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;2➛Courses in Packages Record➛Courses➛Test case&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^knowledge_required=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;2➛Courses in Packages Record➛Courses➛Knowledge Required&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^assigned_to={{Updated_1.current.assigned_to}}^=</value>
+        <value>state=1^objective={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.objective}}^short_description={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.short_description}}^estimated_time_to_complete={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.estimated_time_to_complete}}^follow_up_record={{Updated_1.current}}^coach_instructions_tips=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="3a79fdf5-5095-49bb-8d56-84f35b457894" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.coach_instructions_tips}}"&gt;2➛Courses in Packages Record➛Courses➛Coach Instructions Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^course_detail={{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.course_detail}}^test_case=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="d09e1e6a-058a-4962-83e5-27f9d8c862f6" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.test_case}}"&gt;2➛Courses in Packages Record➛Courses➛Test case&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^knowledge_required=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="672280dd-bb30-4ad2-bdac-18c2b1c6906c" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.knowledge_required}}"&gt;2➛Courses in Packages Record➛Courses➛Knowledge Required&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;^assigned_to={{Updated_1.current.assigned_to}}^trainee_instructions=&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="b6fa37b0-8142-4695-96b2-33be92e644e5" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.trainee_instructions}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="b6fa37b0-8142-4695-96b2-33be92e644e5" data-pillvalue="{{a1a095e4-2948-456a-9a9c-264501899f76.item.courses.trainee_instructions}}"&gt;2➛Courses in Packages Record➛Courses➛Trainee &amp;nbsp;Instructions&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</value>
     </sys_element_mapping>
     <sys_hub_flow_logic action="delete_multiple" query="flow=2d9f04e41ba200105c01dd3cdc4bcb7a^sys_idNOT INb59f04e41ba200105c01dd3cdc4bcb99"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
@@ -1431,10 +1431,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-21 08:00:30</sys_created_on>
         <sys_id>b59f04e41ba200105c01dd3cdc4bcb99</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-21 08:32:57</sys_updated_on>
+        <sys_updated_on>2020-01-30 16:55:38</sys_updated_on>
         <ui_id>a1a095e4-2948-456a-9a9c-264501899f76</ui_id>
         <workflow_inputs/>
         <workflow_reference/>

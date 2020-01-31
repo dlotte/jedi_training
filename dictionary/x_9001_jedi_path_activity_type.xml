@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Activity type" max_length="40" name="x_9001_jedi_path_activity_type" type="collection">
-        <element display="true" label="Name" max_length="255" name="name" type="string"/>
-    </element>
-</database>

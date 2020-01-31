@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7047db441b2600105c01dd3cdc4bcb8c</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_courses"&gt;
+    &lt;x_9001_jedi_path_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type&gt;sales,pre_sales,solution,technical&lt;/activity_type&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to/&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at&gt;2020-01-20 09:15:56&lt;/closed_at&gt;
+        &lt;closed_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/closed_by&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;coach_instructions_tips/&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;course_detail&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hands-on experience with SLAs and OLAs, Reporting&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Estimated Time To complete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2&lt;span style="font-size: 10pt;"&gt; &lt;/span&gt;&lt;span style="font-size: 10pt;"&gt;hours.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge Required&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SLA engine, Schedules, Reporting in Service-now&lt;/p&gt;
+&lt;p&gt;Review wiki for SLA functionality and Schedules&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Test Case&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1) Inactivate all SLA/OLA Definitions in your instance&lt;/p&gt;
+&lt;p&gt;2) Create Incident SLA for&lt;/p&gt;
+&lt;p&gt;Configuration item: CMS App FLX&lt;/p&gt;
+&lt;p&gt;Commitments:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;&lt;strong&gt;P1 &lt;/strong&gt;- 30 mins&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;&lt;strong&gt;P2-P5&lt;/strong&gt; - 1 day&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Schedule: 8-5 Week Days&lt;/p&gt;
+&lt;p&gt;Time Zone: CET&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;2) Create Incident OLA for&lt;/p&gt;
+&lt;p&gt;Group: Network&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;&lt;strong&gt;P1-P5&lt;/strong&gt; - 30 mins&lt;/span&gt; &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Schedule: 8-5 Week Days&lt;/p&gt;
+&lt;p&gt;Time Zone: CET&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;3) Create Incident OLA for&lt;/p&gt;
+&lt;p&gt;Group: Service Desk&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;&lt;strong&gt;P1 &lt;/strong&gt;- 5 mins&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;&lt;strong&gt;P2 &lt;/strong&gt;- 30 min&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;&lt;strong&gt;P3 &lt;/strong&gt;- 1 hour&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;&lt;strong&gt;P4 &lt;/strong&gt;- 2 hour&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;&lt;strong&gt;P5 &lt;/strong&gt;- 1 day&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Schedule 365x7x24&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;4) Create some test Incident data for the Configuration item &amp;#34;CMS App FLX&amp;#34;, with different priorities.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;5) Create Report to show Breached vs Achieved OLAs for Service Desk, network groups&lt;/p&gt;
+&lt;p&gt;Note: check wiki on what needs to be done in order to have &amp;#34;Stage&amp;#34; field maintained with Achieved / Breached ( SLA 2010 vs SLA 2011).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;6) Create Report to show Breached vs Achieved for CMS App FLX SLA&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;strong&gt;Trainee  Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trainee should propose the technical design and get approval from Coach before implementing the solution. After approval please implement it in the instance specified by the Coach using separate update set. Perform the unit testing before reporting task as completed to the Coach.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style="color: #000000; font-family: Arial; font-size: 13.3333px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;" /&gt;
+&lt;p&gt;&lt;strong&gt;Coach Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Explain how Schedules can be checked using UI Action. Check accuracy in SLA / OLA conditions. Explain the difference between SLA and OLA from ITIL point of view. Ensure that reports that have been created are not showing inaccurate data for the following case: incident was first assigned to Network group and the reassigned to Service Desk. Network group task_sla should not be shown in the report&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;hr /&gt;]]&gt;&lt;/course_detail&gt;
+        &lt;course_type/&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;estimated_time_to_complete/&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;knowledge_required/&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;COU0001032&lt;/number&gt;
+        &lt;objective/&gt;
+        &lt;opened_at&gt;2020-01-20 09:15:56&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Induction Task #14 SLAs and OLAs, Reporting&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;sn_esign_document/&gt;
+        &lt;sn_esign_esignature_configuration/&gt;
+        &lt;sn_hr_le_activity/&gt;
+        &lt;state&gt;1&lt;/state&gt;
+        &lt;suggested_consultant_grade&gt;junior,confirmed,senior&lt;/suggested_consultant_grade&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-20 09:15:56&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;7047db441b2600105c01dd3cdc4bcb8c&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-28 14:16:52&lt;/sys_updated_on&gt;
+        &lt;test_case/&gt;
+        &lt;time_worked/&gt;
+        &lt;trainee_instructions/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-27 21:58:05</sys_created_on>
+        <sys_id>a9d842261be640105c01dd3cdc4bcb85</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>COU0001032</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_a9d842261be640105c01dd3cdc4bcb85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-29 21:12:59</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

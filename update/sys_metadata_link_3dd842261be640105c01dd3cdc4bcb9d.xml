@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8547db441b2600105c01dd3cdc4bcba9</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="x_9001_jedi_path_courses"&gt;
+    &lt;x_9001_jedi_path_courses action="INSERT_OR_UPDATE"&gt;
+        &lt;action_status/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;activity_type&gt;sales,pre_sales,solution,technical&lt;/activity_type&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to/&gt;
+        &lt;assignment_group/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at&gt;2020-01-20 09:15:56&lt;/closed_at&gt;
+        &lt;closed_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/closed_by&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;coach_instructions_tips/&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company/&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;course_detail&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Get hands-on practice reading, creating and modifying jelly code&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estimated Time To complete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8 hours&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge Required&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;strong style="font-size: 10pt;"&gt;ServiceNow Scripting &lt;/strong&gt;&lt;span style="font-size: 10pt;"&gt;using GlideRecord, GlideSession (gs), GlideForm (g_form)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;strong style="font-size: 10pt;"&gt;Jelly Tags &lt;/strong&gt;&lt;span style="font-size: 10pt;"&gt;http://wiki.servicenow.com/index.php?title&amp;#61;Jelly_Tags&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;strong style="font-size: 10pt;"&gt;UI Pages&lt;/strong&gt;&lt;span style="font-size: 10pt;"&gt; http://wiki.servicenow.com/index.php?title&amp;#61;UI_Pages&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;strong style="font-size: 10pt;"&gt;UI Macros &lt;/strong&gt;&lt;span style="font-size: 10pt;"&gt;http://wiki.servicenow.com/index.php?title&amp;#61;UI_Macros&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;strong style="font-size: 10pt;"&gt;Jelly Extensions &lt;/strong&gt;&lt;span style="font-size: 10pt;"&gt;http://wiki.servicenow.com/index.php?title&amp;#61;Extensions_to_Jelly_Syntax&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;span style="color: #ff0000;"&gt;Please take your time to read the above mentioned wiki articles to undetsand the basics before starting the excersize.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;These questions will help to understand if you got the material:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;What is the difference between Jelly and Glide tags?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;How will you read a url parameter supplied when calling a ui page?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;Can you operate GlideRecord in jelly? How?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10pt;"&gt;How will you &amp;#34;escape&amp;#34; aplifier (&amp;amp;) when it is necessary to put computnd &amp;#34;and&amp;#34; condition in &amp;amp;lt;j:if&amp;gt;&amp;amp;lt;/j:if&amp;gt; statement?&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Test Case&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;Create UI page named &lt;strong&gt;my_user_info&lt;/strong&gt;.do  that should accept parameter &lt;strong&gt;sysparm_userid&lt;/strong&gt; which should be the sys_id of sys_user record. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;Sample call 1: &lt;strong&gt;https://yourinstance.service-now.com/my_user_info.do?sysparm_userid&amp;#61;263e08f49c1cfc009fefbcb834683e04&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Note: if parameter sysparm_userid is not supplied, invalid or empty then current user&amp;#39;s data should be displayed&lt;/p&gt;
+&lt;p&gt;Sample call 2: &lt;strong&gt;https://yourinstance.service-now.com/my_user_info.do&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sample call 3: &lt;strong&gt;https://yourinstance.service-now.com/my_user_info.do?sysparm_userid&amp;#61;invalid&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sample call 4: &lt;strong&gt;&lt;strong&gt;https://yourinstance.service-now.com/my_user_info.do?sysparm_userid&amp;#61;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This page should display the following information:&lt;/p&gt;
+&lt;p&gt;
+&lt;table width="363" border="0" cellspacing="0" cellpadding="0"&gt;&lt;colgroup&gt;&lt;col width="185" /&gt;&lt;col width="178" /&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height="89"&gt;&lt;td class="xl67" width="185" height="89"&gt;&lt;strong&gt;&lt;span style="font-size: x-large;"&gt;User Full Name&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td width="178"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="20"&gt;&lt;td class="xl66" height="20"&gt;&lt;strong&gt;Attribute&lt;/strong&gt;&lt;/td&gt;&lt;td class="xl66"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Value(s)&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="20"&gt;&lt;td class="xl65" height="20"&gt;First Name&lt;/td&gt;&lt;td class="xl68"&gt;&lt;span style="color: #808080;"&gt;from user fields&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="20"&gt;&lt;td class="xl65" height="20"&gt;Last Name&lt;/td&gt;&lt;td class="xl68"&gt;&lt;span style="color: #808080;"&gt;from user fields&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="20"&gt;&lt;td class="xl65" height="20"&gt;User ID&lt;/td&gt;&lt;td class="xl68"&gt;&lt;span style="color: #808080;"&gt;from user fields&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="20"&gt;&lt;td class="xl65" height="20"&gt;User Record URL (href link)&lt;/td&gt;&lt;td class="xl68"&gt;&lt;span style="color: #808080;"&gt;sys_user.do?sys_id&amp;#61;….&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="20"&gt;&lt;td class="xl65" height="20"&gt;User has Roles&lt;/td&gt;&lt;td class="xl68"&gt;&lt;span style="color: #808080;"&gt;role1, role2, role3&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="20"&gt;&lt;td class="xl65" height="20"&gt;User is in Groups&lt;/td&gt;&lt;td class="xl68"&gt;&lt;span style="color: #808080;"&gt;group1, group2, group3&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="20"&gt;&lt;td class="xl65" height="20"&gt;Last Logon Date and Time&lt;/td&gt;&lt;td class="xl68"&gt;&lt;span style="color: #808080;"&gt;date and time&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="20"&gt;&lt;td class="xl65" height="20"&gt;Last Incident Logged&lt;/td&gt;&lt;td class="xl68"&gt;&lt;span style="color: #808080;"&gt;date and time&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/p&gt;
+&lt;p&gt;Note: If user has single role or group membership granted more than once then role/group should be still displayed once!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Trainee  Instructions&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Trainee should propose the technical design and get approval from Coach before implementing the solution. After approval please implement it in the instance specified by the Coach using separate update set. Perform the unit testing before reporting task as completed to the Coach. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style="color: #000000; font-family: Arial; font-size: 13.333333969116211px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;" /&gt;
+&lt;p&gt;&lt;b&gt;Coach Instructions&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Attention to &amp;amp;lt;g&amp;gt; and GlideRecord queries for Roles, Groups, removing duplicates from those&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;]]&gt;&lt;/course_detail&gt;
+        &lt;course_type/&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;description/&gt;
+        &lt;due_date/&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;estimated_time_to_complete/&gt;
+        &lt;expected_start/&gt;
+        &lt;follow_up/&gt;
+        &lt;group_list/&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;knowledge_required/&gt;
+        &lt;location/&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;needs_attention&gt;false&lt;/needs_attention&gt;
+        &lt;number&gt;COU0001042&lt;/number&gt;
+        &lt;objective/&gt;
+        &lt;opened_at&gt;2020-01-20 09:15:56&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;priority&gt;4&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;rejection_goto/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;Induction Task #34 Jelly Scripting Overview&lt;/short_description&gt;
+        &lt;skills/&gt;
+        &lt;sla_due/&gt;
+        &lt;sn_esign_document/&gt;
+        &lt;sn_esign_esignature_configuration/&gt;
+        &lt;sn_hr_le_activity/&gt;
+        &lt;state&gt;1&lt;/state&gt;
+        &lt;suggested_consultant_grade&gt;junior,confirmed,senior&lt;/suggested_consultant_grade&gt;
+        &lt;sys_class_name&gt;x_9001_jedi_path_courses&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-20 09:15:56&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;8547db441b2600105c01dd3cdc4bcba9&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-28 14:16:52&lt;/sys_updated_on&gt;
+        &lt;test_case/&gt;
+        &lt;time_worked/&gt;
+        &lt;trainee_instructions/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+    &lt;/x_9001_jedi_path_courses&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-27 21:58:06</sys_created_on>
+        <sys_id>3dd842261be640105c01dd3cdc4bcb9d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>COU0001042</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_metadata_link_3dd842261be640105c01dd3cdc4bcb9d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-29 21:13:00</sys_updated_on>
+        <tablename>x_9001_jedi_path_courses</tablename>
+    </sys_metadata_link>
+</record_update>

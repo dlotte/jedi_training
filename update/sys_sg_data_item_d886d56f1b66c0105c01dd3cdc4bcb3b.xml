@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Courses in progress</name>
+        <query_condition table="x_9001_jedi_path_courses">state=2<item display_value="Work in Progress" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-30 20:52:06</sys_created_on>
+        <sys_id>d886d56f1b66c0105c01dd3cdc4bcb3b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Courses in progress</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_sg_data_item_d886d56f1b66c0105c01dd3cdc4bcb3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-30 21:29:40</sys_updated_on>
+        <table>x_9001_jedi_path_courses</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d886d56f1b66c0105c01dd3cdc4bcb3b"/>
+</record_update>

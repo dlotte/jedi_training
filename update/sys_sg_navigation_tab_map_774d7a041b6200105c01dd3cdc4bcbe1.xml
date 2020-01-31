@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
     <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
         <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
-        <navigation_tab display_value="training path">234dfac41b2200105c01dd3cdc4bcb35</navigation_tab>
+        <navigation_tab display_value="CloudSpirit Training Program">234dfac41b2200105c01dd3cdc4bcb35</navigation_tab>
         <order>9300</order>
         <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
