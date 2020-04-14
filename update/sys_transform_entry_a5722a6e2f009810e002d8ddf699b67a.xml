@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="Competence path courses">ab568dde2f08d410e002d8ddf699b623</map>
+        <reference_value_field/>
+        <source_field>[Script]</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	var duration = parseInt(source.u_durée__hrs_);
+	var estimated_time_to_complete= (duration*3600);
+
+
+	var sched = new GlideSchedule('08fcd0830a0a0b2600079f56b1adb9ae'); //sys_id of your schedule goes here
+	// Get duration based on schedule/timezone
+
+	var dur= (sched.duration(new GlideDateTime().getDisplayValue(), new GlideDateTime().addSeconds(estimated_time_to_complete)).getDurationValue());
+
+
+	gs.info("imp dlo duration 1 = " + duration + "\n "+ "imp dlo duration 2 = " + estimated_time_to_complete + "\n " + "dur = " + dur );
+	return estimated_time_to_complete; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_9001_jedi_path_competence_path_crouses</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-11 13:24:45</sys_created_on>
+        <sys_id>a5722a6e2f009810e002d8ddf699b67a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>[Script]</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_transform_entry_a5722a6e2f009810e002d8ddf699b67a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-11 14:17:09</sys_updated_on>
+        <target_field>estimated_time_to_complete</target_field>
+        <target_table>x_9001_jedi_path_courses</target_table>
+        <use_source_script>true</use_source_script>
+    </sys_transform_entry>
+</record_update>

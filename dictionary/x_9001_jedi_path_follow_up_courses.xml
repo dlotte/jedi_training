@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_9001_jedi_path_courses" label="Follow-up courses" max_length="40" name="x_9001_jedi_path_follow_up_courses" sizeclass="24" type="collection">
+    <element audit="true" extends="x_9001_jedi_path_courses" label="Follow-up courses" max_length="40" name="x_9001_jedi_path_follow_up_courses" sizeclass="174" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Block reason" max_length="1000" name="block_reason" type="string"/>
         <element attributes="encode_utf8=false" label="Cours package" max_length="32" name="cours_package" reference="x_9001_jedi_path_courses_package" type="reference"/>
         <element attributes="encode_utf8=false" label="Follow up record" max_length="32" name="follow_up_record" reference="x_9001_jedi_path_follow_up" type="reference"/>
     </element>

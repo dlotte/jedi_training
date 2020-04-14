@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>path follow up</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_9001_jedi_path_path_follow_up</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 14:48:45</sys_created_on>
+        <sys_id>28bbe59a2f4cd410e002d8ddf699b6e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>path follow up</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_db_object_28bbe59a2f4cd410e002d8ddf699b6e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 14:48:45</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_9001_jedi_path.path_follow_up_user" name="x_9001_jedi_path.path_follow_up_user">313c65922f4cd410e002d8ddf699b6ec</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_db_object_28bbe59a2f4cd410e002d8ddf699b6e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>path follow up</label><live_feed_enabled>false</live_feed_enabled><name>x_9001_jedi_path_path_follow_up</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-10 14:48:45</sys_created_on><sys_id>28bbe59a2f4cd410e002d8ddf699b6e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>path follow up</sys_name><sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package><sys_policy/><sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope><sys_update_name>sys_db_object_28bbe59a2f4cd410e002d8ddf699b6e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-10 14:48:45</sys_updated_on><update_access>false</update_access><user_role display_value="x_9001_jedi_path.path_follow_up_user" name="x_9001_jedi_path.path_follow_up_user">313c65922f4cd410e002d8ddf699b6ec</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>358084635</payload_hash>
+        <record_name>path follow up</record_name>
+        <reverted_from display_value="sys_db_object_28bbe59a2f4cd410e002d8ddf699b6e7">5a3c21122f8cd410e002d8ddf699b61b</reverted_from>
+        <source>6b4f41922f88d410e002d8ddf699b6bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 15:53:21</sys_created_on>
+        <sys_id>dc0bb99a2fccd410e002d8ddf699b628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17164cbac360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 15:53:21</sys_updated_on>
+        <type>Table</type>
+        <update_guid>980b799a68ccd4107db7bb92d5d8389d</update_guid>
+        <update_guid_history>980b799a68ccd4107db7bb92d5d8389d:358084635,bb33b91e7e8cd410e64c4e97b752ea3b:-966276418,523c2112e88cd4106bc9777553c7681b:358084635</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 16:04:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>4122cac5cab641b28a97453676f7f444</sys_id>
+        <sys_metadata>28bbe59a2f4cd410e002d8ddf699b6e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>path follow up</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_db_object_28bbe59a2f4cd410e002d8ddf699b6e7</sys_update_name>
+        <sys_update_version display_value="sys_db_object_28bbe59a2f4cd410e002d8ddf699b6e7">dc0bb99a2fccd410e002d8ddf699b628</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 16:04:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -3,77 +3,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>courses</element>
-            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">2ce4982d1ba600105c01dd3cdc4bcb80</list_id>
+            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">f6fa516f2fc81050e002d8ddf699b6b0</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-24 10:57:33</sys_created_on>
-            <sys_id>64e4982d1ba600105c01dd3cdc4bcb81</sys_id>
+            <sys_created_on>2020-04-14 10:45:51</sys_created_on>
+            <sys_id>3efa516f2fc81050e002d8ddf699b6b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-24 10:57:33</sys_updated_on>
+            <sys_updated_on>2020-04-14 10:45:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>courses.order</element>
-            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">2ce4982d1ba600105c01dd3cdc4bcb80</list_id>
+            <element>courses.training_path_number</element>
+            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">f6fa516f2fc81050e002d8ddf699b6b0</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-24 10:57:33</sys_created_on>
-            <sys_id>e4e4982d1ba600105c01dd3cdc4bcb81</sys_id>
+            <sys_created_on>2020-04-14 10:45:51</sys_created_on>
+            <sys_id>befa516f2fc81050e002d8ddf699b6b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-24 10:57:33</sys_updated_on>
+            <sys_updated_on>2020-04-14 10:45:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>courses.objective</element>
-            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">2ce4982d1ba600105c01dd3cdc4bcb80</list_id>
+            <element>courses.order</element>
+            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">f6fa516f2fc81050e002d8ddf699b6b0</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-24 10:57:33</sys_created_on>
-            <sys_id>68e4982d1ba600105c01dd3cdc4bcb81</sys_id>
+            <sys_created_on>2020-04-14 10:45:51</sys_created_on>
+            <sys_id>32fa516f2fc81050e002d8ddf699b6b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-24 10:57:33</sys_updated_on>
+            <sys_updated_on>2020-04-14 10:45:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>courses.short_description</element>
-            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">2ce4982d1ba600105c01dd3cdc4bcb80</list_id>
+            <element>courses.objective</element>
+            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">f6fa516f2fc81050e002d8ddf699b6b0</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-24 10:57:33</sys_created_on>
-            <sys_id>e8e4982d1ba600105c01dd3cdc4bcb81</sys_id>
+            <sys_created_on>2020-04-14 10:45:51</sys_created_on>
+            <sys_id>b2fa516f2fc81050e002d8ddf699b6b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-24 10:57:33</sys_updated_on>
+            <sys_updated_on>2020-04-14 10:45:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>courses.estimated_time_to_complete</element>
-            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">2ce4982d1ba600105c01dd3cdc4bcb80</list_id>
+            <element>courses.short_description</element>
+            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">f6fa516f2fc81050e002d8ddf699b6b0</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-24 10:57:33</sys_created_on>
-            <sys_id>6ce4982d1ba600105c01dd3cdc4bcb81</sys_id>
+            <sys_created_on>2020-04-14 10:45:51</sys_created_on>
+            <sys_id>36fa516f2fc81050e002d8ddf699b6b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-24 10:57:33</sys_updated_on>
+            <sys_updated_on>2020-04-14 10:45:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>courses.estimated_time_to_complete</element>
+            <list_id display_value="x_9001_jedi_path_m2m_courses_courses_packages" element="NULL" name="x_9001_jedi_path_m2m_courses_courses_packages" parent="x_9001_jedi_path_courses_package" relationship="NULL" sys_domain="global" view="Default view">f6fa516f2fc81050e002d8ddf699b6b0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 10:45:51</sys_created_on>
+            <sys_id>b6fa516f2fc81050e002d8ddf699b6b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 10:45:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -87,10 +102,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-24 10:57:33</sys_created_on>
+            <sys_created_on>2020-04-14 10:45:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2ce4982d1ba600105c01dd3cdc4bcb80</sys_id>
+            <sys_id>f6fa516f2fc81050e002d8ddf699b6b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_9001_jedi_path_m2m_courses_courses_packages</sys_name>
             <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
@@ -98,7 +113,7 @@
             <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
             <sys_update_name>sys_ui_list_x_9001_jedi_path_m2m_courses_courses_packages_x_9001_jedi_path_courses_package_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-24 10:57:33</sys_updated_on>
+            <sys_updated_on>2020-04-14 10:45:51</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_9001_jedi_path.trainingAjaxUtil</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>trainingAjaxUtil</name>
+        <script><![CDATA[var trainingAjaxUtil = Class.create();
+trainingAjaxUtil.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	getFieldsEmpty: function() {
+		
+		gs.info("trainingAjaxUtil.getFieldsEmpty - start = " );
+		var tableName = this.getParameter('sysparm_tableName');
+		var recordSysId = this.getParameter('sysparm_sysId');
+		var emptyFields = [];
+
+		gs.info("trainingAjaxUtil.getFieldsEmpty - start = " + tableName + " / " + recordSysId);
+		var gr = new GlideRecord(tableName);
+		gr.get(recordSysId);
+
+		var fields = new GlideRecordUtil().getFields(gr);
+
+		for (var num = 0; num < fields.length; num++) {
+			var field_name = fields[num];
+			if(gr[field_name] == ''){
+				if(emptyFields.length == 0){
+					emptyFields.push(field_name);
+				} 
+			}
+		}
+		gs.info("trainingAjaxUtil.getFieldsEmpty - emptyFields = " + emptyFields.toString());
+		return emptyFields;
+	},
+
+	type: 'trainingAjaxUtil'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 14:43:27</sys_created_on>
+        <sys_id>d13152e32f805050e002d8ddf699b640</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>trainingAjaxUtil</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_script_include_d13152e32f805050e002d8ddf699b640</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 15:03:59</sys_updated_on>
+    </sys_script_include>
+</record_update>

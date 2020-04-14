@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>action_status</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Hide empty fields</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+
+	if(g_form.getValue('state') == '9'){
+		var ga = new GlideAjax('trainingAjaxUtil');
+		ga.addParam('sysparm_name','getFieldsEmpty');
+		ga.addParam('sysparm_sysId', g_form.getUniqueValue());
+		ga.addParam('sysparm_tableName', g_form.getTableName());
+		ga.getXML(hideFields);
+	}
+}
+
+function hideFields (response){
+	var answer = response.responseXML.documentElement.getAttribute("answer"); 
+	alert(answer);
+	var fields = ga.getAnswer();
+	var fieldArray = fields.split(',');
+
+	for(var i=0 ; i < fieldArray.length; i++){
+		g_form.setDisplay(fieldArray[i],false);
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 14:51:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c7331ea72f805050e002d8ddf699b62d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Hide empty fields</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_script_client_c7331ea72f805050e002d8ddf699b62d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 15:04:24</sys_updated_on>
+        <table>x_9001_jedi_path_courses</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

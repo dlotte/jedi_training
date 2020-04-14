@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 07:22:06</sys_created_on>
+        <sys_id>e53d36041b6200105c01dd3cdc4bcb0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9001_jedi_path_courses.admin</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_security_acl display_value="x_9001_jedi_path_courses">693d36041b6200105c01dd3cdc4bcb06</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e53d36041b6200105c01dd3cdc4bcb0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 07:22:06</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_security_acl_role_e53d36041b6200105c01dd3cdc4bcb0a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-20 07:22:06</sys_created_on>
+        <sys_id>e53d36041b6200105c01dd3cdc4bcb0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9001_jedi_path_courses.admin</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_security_acl display_value="x_9001_jedi_path_courses">693d36041b6200105c01dd3cdc4bcb06</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e53d36041b6200105c01dd3cdc4bcb0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-20 07:22:06</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>1166124787</payload_hash>
+        <record_name>x_9001_jedi_path_courses.admin</record_name>
+        <reverted_from/>
+        <source>674f41162f88d410e002d8ddf699b6bf</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 12:42:53</sys_created_on>
+        <sys_id>026fcd162f88d410e002d8ddf699b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171641d49e60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 12:42:53</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4e6fcd167788d410ad0297d0848f2160</update_guid>
+        <update_guid_history>4e6fcd167788d410ad0297d0848f2160:0,ccee0952c488d4107182edc3fe8797a7:922747784,e93d3604376200101cb46a448023570d:-42211463</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_9001_jedi_path_courses.admin">e13f02ef2f405050e002d8ddf699b6c1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 14:34:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0a6caf1937d84c40be54b545b53b1ec1</sys_id>
+        <sys_metadata>e53d36041b6200105c01dd3cdc4bcb0a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9001_jedi_path_courses.admin</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent display_value="x_9001_jedi_path_courses.*">693d36041b6200105c01dd3cdc4bcb06</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_e53d36041b6200105c01dd3cdc4bcb0a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_e53d36041b6200105c01dd3cdc4bcb0a">026fcd162f88d410e002d8ddf699b661</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 14:34:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -5,7 +5,7 @@
             <element>suggested_consultant_grade</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Junior</label>
+            <label>Novice 1</label>
             <language>en</language>
             <name>x_9001_jedi_path_courses</name>
             <sequence>100</sequence>
@@ -14,17 +14,17 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4c0729721b22c0105c01dd3cdc4bcb89</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>7</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-28 14:09:03</sys_updated_on>
-            <value>junior</value>
+            <sys_updated_on>2020-04-10 11:11:11</sys_updated_on>
+            <value>n1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>suggested_consultant_grade</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Confirmed</label>
+            <label>Novice 2</label>
             <language>en</language>
             <name>x_9001_jedi_path_courses</name>
             <sequence>200</sequence>
@@ -33,17 +33,17 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>73e665be1bee80105c01dd3cdc4bcb78</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>6</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-28 14:08:54</sys_updated_on>
-            <value>confirmed</value>
+            <sys_updated_on>2020-04-10 11:11:13</sys_updated_on>
+            <value>n2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>suggested_consultant_grade</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Senior</label>
+            <label>Initié 1</label>
             <language>en</language>
             <name>x_9001_jedi_path_courses</name>
             <sequence>300</sequence>
@@ -52,10 +52,48 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9307e1b21b22c0105c01dd3cdc4bcbc6</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-10 11:11:18</sys_updated_on>
+            <value>i1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>suggested_consultant_grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Initié 2</label>
+            <language>en</language>
+            <name>x_9001_jedi_path_courses</name>
+            <sequence>400</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-10 11:11:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>102a7cd62fc4d410e002d8ddf699b6f6</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-28 14:09:27</sys_updated_on>
-            <value>senior</value>
+            <sys_updated_on>2020-04-10 11:11:32</sys_updated_on>
+            <value>i2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>suggested_consultant_grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Initié 3</label>
+            <language>en</language>
+            <name>x_9001_jedi_path_courses</name>
+            <sequence>500</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-10 11:11:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a27a3c5a2fc4d410e002d8ddf699b64f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-10 11:11:41</sys_updated_on>
+            <value>i3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>suggested_consultant_grade</element>
@@ -63,7 +101,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-01-28 14:08:43</sys_created_on>
-            <sys_id>3bf6adfa1bee80105c01dd3cdc4bcb97</sys_id>
+            <sys_id>9b7f89562f88d410e002d8ddf699b609</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>suggested_consultant_grade</sys_name>
             <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>

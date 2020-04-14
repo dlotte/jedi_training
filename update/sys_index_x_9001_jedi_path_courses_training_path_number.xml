@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>training_path_number</col_name_string>
+        <index_col_name element="training_path_number" name="x_9001_jedi_path_courses">4365e29a2f041810e002d8ddf699b633</index_col_name>
+        <logical_table_name>x_9001_jedi_path_courses</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-04-10 19:00:15</sys_created_on>
+        <sys_id>cec562da2f041810e002d8ddf699b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9001_jedi_path_courses</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_index_x_9001_jedi_path_courses_training_path_number</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-04-10 19:00:15</sys_updated_on>
+        <table display_value="Courses" name="x_9001_jedi_path_courses">743df2041b6200105c01dd3cdc4bcb71</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

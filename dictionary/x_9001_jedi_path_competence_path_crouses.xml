@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Competence path courses" max_length="40" name="x_9001_jedi_path_competence_path_crouses" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Certification" label="Certification" max_length="40" name="u_certification" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cours" label="Cours" max_length="60" name="u_cours" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Coût formation&#10;1 class = ~2000€" max_length="40" name="u_coût_formati_class____2000_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Durée max du grade" max_length="40" name="u_durée_max_du_grade" type="string"/>
+        <element label="Durée (hrs)" max_length="15" name="u_durée__hrs_" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Grade" label="Grade" max_length="40" name="u_grade" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Heures developers" label="Heures developers" max_length="40" name="u_heures_developers" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Heures now learning" label="Heures now learning" max_length="40" name="u_heures_now_learning" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jours developers" label="Jours developers" max_length="40" name="u_jours_developers" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jours Now learning" label="Jours Now learning" max_length="40" name="u_jours_now_learning" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jours total" label="Jours total" max_length="40" name="u_jours_total" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Lien" label="Lien" max_length="40" name="u_lien" type="html"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Niveau" label="Niveau" max_length="40" name="u_niveau" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Objectifs" label="Objectifs" max_length="709" name="u_objectifs" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Obligatoire CloudSpirit" label="Obligatoire CloudSpirit" max_length="40" name="u_obligatoire_cloudspirit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Obligatoire Path" label="Obligatoire Path" max_length="40" name="u_obligatoire_path" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Ordre" label="Ordre" max_length="40" name="u_ordre" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Outil" label="Outil" max_length="40" name="u_outil" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Path SNC" label="Path SNC" max_length="40" name="u_path_snc" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Payant" label="Payant" max_length="40" name="u_payant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Point d'attention" label="Point d'attention" max_length="79" name="u_point_d_attention" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sous grade" label="Sous grade" max_length="40" name="u_sous_grade" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type de formation" label="Type de formation" max_length="40" name="u_type_de_formation" type="string"/>
+    </element>
+</database>

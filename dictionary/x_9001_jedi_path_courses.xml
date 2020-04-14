@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Courses" max_length="40" name="x_9001_jedi_path_courses" sizeclass="74" type="collection">
+    <element extends="task" label="Courses" max_length="40" name="x_9001_jedi_path_courses" sizeclass="259" type="collection">
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Activity type" max_length="1024" name="activity_type" type="glide_list"/>
         <element label="Coach Instructions  Tips" max_length="65536" name="coach_instructions_tips" type="html"/>
         <element attributes="encode_utf8=false" label="Course detail" max_length="65536" name="course_detail" type="translated_html"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Course type" max_length="40" name="course_type" type="string">
             <choice>
-                <element inactive_on_update="false" label="Lesson" sequence="0" value="Lesson"/>
-                <element inactive_on_update="false" label="Exercise" sequence="1" value="Exercise"/>
+                <element inactive_on_update="false" label="Lesson" sequence="0" value="lesson"/>
+                <element inactive_on_update="false" label="Exercise" sequence="1" value="exercise"/>
+                <element inactive_on_update="false" label="Developer Site" sequence="2" value="dev_site"/>
+                <element inactive_on_update="false" label="Now learning portal" sequence="3" value="lxp"/>
+                <element inactive_on_update="false" label="Assessment" sequence="4" value="assessment"/>
             </choice>
         </element>
         <element label="Estimated time to complete" max_length="40" name="estimated_time_to_complete" type="glide_duration"/>
         <element label="Knowledge Required" max_length="65536" name="knowledge_required" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Link" max_length="1024" name="link" type="url"/>
         <element attributes="edge_encryption_enabled=true" label="Objective" max_length="1000" name="objective" type="string"/>
-        <element attributes="encode_utf8=false" label="Suggested consultant grade" max_length="32" name="suggested_consultant_grade" type="glide_list"/>
+        <element attributes="encode_utf8=false" label="Suggested consultant grade" max_length="1024" name="suggested_consultant_grade" type="glide_list"/>
         <element label="Test case" max_length="65536" name="test_case" type="html"/>
         <element attributes="html_sanitize=false" label="Trainee  Instructions" max_length="65536" name="trainee_instructions" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="training path number" max_length="40" name="training_path_number" type="string"/>
     </element>
 </database>

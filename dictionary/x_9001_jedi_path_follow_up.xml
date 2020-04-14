@@ -12,6 +12,7 @@
                 <element inactive_on_update="false" label="Pending" sequence="2" value="Pending"/>
                 <element inactive_on_update="false" label="Done" sequence="3" value="Done"/>
                 <element inactive_on_update="false" label="Blocked" sequence="4" value="Blocked"/>
+                <element inactive_on_update="false" label="Done" sequence="4" value="11"/>
             </choice>
         </element>
         <element label="Target instance" max_length="32" name="target_instance" reference="x_9001_jedi_path_target_instance" type="reference"/>

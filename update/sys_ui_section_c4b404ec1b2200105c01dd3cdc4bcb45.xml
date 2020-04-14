@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>18060ce01b6200105c01dd3cdc4bcb71</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>d45362672f045050e002d8ddf699b630</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>follow_up_record</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>98060ce01b6200105c01dd3cdc4bcb71</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>505362672f045050e002d8ddf699b631</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>cours_package</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>1c060ce01b6200105c01dd3cdc4bcb71</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>d45362672f045050e002d8ddf699b631</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>9c060ce01b6200105c01dd3cdc4bcb71</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>5c5362672f045050e002d8ddf699b631</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>estimated_time_to_complete</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>10060ce01b6200105c01dd3cdc4bcb72</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>d05362672f045050e002d8ddf699b632</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>assigned_to</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>90060ce01b6200105c01dd3cdc4bcb72</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>585362672f045050e002d8ddf699b632</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>14060ce01b6200105c01dd3cdc4bcb72</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>dc5362672f045050e002d8ddf699b632</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,127 +102,183 @@
             <element>.end_split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>94060ce01b6200105c01dd3cdc4bcb72</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>545362672f045050e002d8ddf699b633</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>block_reason</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>18060ce01b6200105c01dd3cdc4bcb72</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>d85362672f045050e002d8ddf699b633</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>505362672f045050e002d8ddf699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>objective</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>98060ce01b6200105c01dd3cdc4bcb72</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>d45362672f045050e002d8ddf699b634</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>knowledge_required</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>1c060ce01b6200105c01dd3cdc4bcb72</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>5c5362672f045050e002d8ddf699b634</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>link</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>d05362672f045050e002d8ddf699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>test_case</element>
-            <position>11</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>9c060ce01b6200105c01dd3cdc4bcb72</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>585362672f045050e002d8ddf699b635</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments_and_work_notes</element>
-            <position>12</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>10060ce01b6200105c01dd3cdc4bcb73</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>dc5362672f045050e002d8ddf699b635</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>trainee_instructions</element>
-            <position>13</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>90060ce01b6200105c01dd3cdc4bcb73</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>545362672f045050e002d8ddf699b636</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>coach_instructions_tips</element>
-            <position>14</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>14060ce01b6200105c01dd3cdc4bcb73</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>d85362672f045050e002d8ddf699b636</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>course_detail</element>
-            <position>15</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-21 07:18:38</sys_created_on>
-            <sys_id>94060ce01b6200105c01dd3cdc4bcb73</sys_id>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>505362672f045050e002d8ddf699b637</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-21 07:18:38</sys_updated_on>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>d45362672f045050e002d8ddf699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 16:01:53</sys_created_on>
+            <sys_id>5c5362672f045050e002d8ddf699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="Default view">c4b404ec1b2200105c01dd3cdc4bcb45</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 16:01:53</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

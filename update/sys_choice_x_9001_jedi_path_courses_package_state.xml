@@ -5,6 +5,25 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Deprecated</label>
+            <language>en</language>
+            <name>x_9001_jedi_path_courses_package</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 16:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9a52e6b2f045050e002d8ddf699b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 16:12:22</sys_updated_on>
+            <value>-100</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Open</label>
             <language>en</language>
             <name>x_9001_jedi_path_courses_package</name>
@@ -82,7 +101,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-01-20 07:39:04</sys_created_on>
-            <sys_id>4211c7c81b6200105c01dd3cdc4bcb82</sys_id>
+            <sys_id>225f09162f88d410e002d8ddf699b653</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>state</sys_name>
             <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
