@@ -2,6 +2,7 @@
     <asmt_metric_definition action="INSERT_OR_UPDATE">
         <display>Allow access to app engine</display>
         <metric display_value="What is the elevated role">b15aa92c1b2e00105c01dd3cdc4bcb05</metric>
+        <normalization_input>0</normalization_input>
         <order>3</order>
         <selected_image/>
         <sys_class_name>asmt_metric_definition</sys_class_name>

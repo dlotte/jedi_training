@@ -3,6 +3,7 @@
         <condition_type>declarative</condition_type>
         <description>Always pass on what you have learned</description>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>My completed training programs</name>
         <query_condition table="x_9001_jedi_path_follow_up">state=Done^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item display_value="Done" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="Done"/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>

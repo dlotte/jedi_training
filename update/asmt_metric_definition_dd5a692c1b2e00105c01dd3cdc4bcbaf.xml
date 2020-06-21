@@ -2,6 +2,7 @@
     <asmt_metric_definition action="INSERT_OR_UPDATE">
         <display>The area on the left to access to the module</display>
         <metric display_value="What is a banner">d15a2da81b2e00105c01dd3cdc4bcb44</metric>
+        <normalization_input>0</normalization_input>
         <order>0</order>
         <selected_image/>
         <sys_class_name>asmt_metric_definition</sys_class_name>

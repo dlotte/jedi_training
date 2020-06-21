@@ -2,6 +2,7 @@
     <asmt_metric_definition action="INSERT_OR_UPDATE">
         <display>Contains pages</display>
         <metric display_value="What is a content frame">395a692c1b2e00105c01dd3cdc4bcbf0</metric>
+        <normalization_input>0</normalization_input>
         <order>0</order>
         <selected_image/>
         <sys_class_name>asmt_metric_definition</sys_class_name>

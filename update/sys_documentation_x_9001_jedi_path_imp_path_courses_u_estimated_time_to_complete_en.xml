@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_estimated_time_to_complete" label="estimated_time_to_complete" language="en" table="x_9001_jedi_path_imp_path_courses">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_estimated_time_to_complete</element>
+            <help/>
+            <hint/>
+            <label>estimated_time_to_complete</label>
+            <language>en</language>
+            <name>x_9001_jedi_path_imp_path_courses</name>
+            <plural>estimated_time_to_completes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-15 07:55:43</sys_created_on>
+            <sys_id>6cadb1332f4c9050e002d8ddf699b61d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>estimated_time_to_complete</sys_name>
+            <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+            <sys_update_name>sys_documentation_x_9001_jedi_path_imp_path_courses_u_estimated_time_to_complete_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-15 07:55:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

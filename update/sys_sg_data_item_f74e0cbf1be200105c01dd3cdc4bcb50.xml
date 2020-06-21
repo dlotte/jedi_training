@@ -3,6 +3,7 @@
         <condition_type>declarative</condition_type>
         <description/>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>My completed training courses</name>
         <query_condition table="x_9001_jedi_path_follow_up_courses">state=11^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item display_value="Done" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="11"/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>

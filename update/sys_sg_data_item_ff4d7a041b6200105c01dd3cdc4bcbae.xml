@@ -3,6 +3,7 @@
         <condition_type>declarative</condition_type>
         <description/>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>training path Courses</name>
         <query_condition table="x_9001_jedi_path_courses">sys_class_name=x_9001_jedi_path_courses<item display_value="Courses" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_9001_jedi_path_courses"/>
         </query_condition>

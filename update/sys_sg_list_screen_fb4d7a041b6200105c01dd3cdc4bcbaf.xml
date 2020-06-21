@@ -5,6 +5,7 @@
         <dynamic_prefetch_count/>
         <fetch_type>on_demand</fetch_type>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-File">a74dfac41b2200105c01dd3cdc4bcb33</icon>
         <name>All courses</name>
         <roles_override/>

@@ -6,6 +6,7 @@
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-File">a74dfac41b2200105c01dd3cdc4bcb33</icon>
         <item_view display_value="Courses package Detail Screen Item View">a34d7a041b6200105c01dd3cdc4bcb81</item_view>
         <name>Courses package Form Screen</name>

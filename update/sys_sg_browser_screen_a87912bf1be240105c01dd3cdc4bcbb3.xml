@@ -6,6 +6,7 @@
         <external_browser>false</external_browser>
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="My assessments to be taken Icon">10791a7f1be240105c01dd3cdc4bcbc9</icon>
         <name>My assessments to be taken</name>
         <relative_url>true</relative_url>

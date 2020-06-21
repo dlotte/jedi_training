@@ -6,6 +6,7 @@
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="My ongoing training courses Icon">4002dcb71b2600105c01dd3cdc4bcb17</icon>
         <item_view display_value="My ongoing training courses Header Item View">0402dcb71b2600105c01dd3cdc4bcb19</item_view>
         <name>My completed training courses</name>

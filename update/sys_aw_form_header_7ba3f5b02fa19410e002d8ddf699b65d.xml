@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_form_header">
+    <sys_aw_form_header action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ignore_highlight>false</ignore_highlight>
+        <order>100</order>
+        <primary_field>short_description</primary_field>
+        <secondary_fields/>
+        <sys_class_name>sys_aw_form_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:05:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7ba3f5b02fa19410e002d8ddf699b65d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_update_name>sys_aw_form_header_7ba3f5b02fa19410e002d8ddf699b65d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:05:39</sys_updated_on>
+        <table>x_9001_jedi_path_follow_up_courses</table>
+        <workspace display_value="CloudAcademy">f1de10982f955010e002d8ddf699b6c0</workspace>
+    </sys_aw_form_header>
+</record_update>

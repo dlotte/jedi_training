@@ -2,6 +2,7 @@
     <asmt_metric_definition action="INSERT_OR_UPDATE">
         <display>N/A</display>
         <metric/>
+        <normalization_input>0</normalization_input>
         <order/>
         <selected_image/>
         <sys_class_name>asmt_metric_definition</sys_class_name>

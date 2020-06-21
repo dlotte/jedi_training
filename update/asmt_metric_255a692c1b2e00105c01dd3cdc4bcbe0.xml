@@ -7,6 +7,7 @@
         <auto_gen>false</auto_gen>
         <category display_value="01-Overview of serviceNow user interface">d55a2da81b2e00105c01dd3cdc4bcb40</category>
         <cond_question>always</cond_question>
+        <context/>
         <correct_answer/>
         <correct_answer_checkbox/>
         <correct_answer_choice/>

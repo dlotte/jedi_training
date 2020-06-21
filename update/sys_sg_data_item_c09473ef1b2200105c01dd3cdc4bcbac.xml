@@ -3,6 +3,7 @@
         <condition_type>declarative</condition_type>
         <description>Train yourself to let go of everything you fear to lose</description>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>My open training programs</name>
         <query_condition table="x_9001_jedi_path_follow_up">state=Open^ORstate=Work in progress^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item display_value="Open" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="Open"/>
             <item display_value="Work in progress" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="Work in progress"/>

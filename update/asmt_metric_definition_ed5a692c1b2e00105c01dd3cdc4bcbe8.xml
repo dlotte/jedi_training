@@ -2,6 +2,7 @@
     <asmt_metric_definition action="INSERT_OR_UPDATE">
         <display>The place to create favorites</display>
         <metric display_value="What is the navigator">255a692c1b2e00105c01dd3cdc4bcbe0</metric>
+        <normalization_input>0</normalization_input>
         <order>1</order>
         <selected_image/>
         <sys_class_name>asmt_metric_definition</sys_class_name>

@@ -5,6 +5,7 @@
         <dynamic_prefetch_count/>
         <fetch_type>on_demand</fetch_type>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Address-Book">8eb573631b6200105c01dd3cdc4bcb7e</icon>
         <name>My suspended training programs</name>
         <roles_override/>

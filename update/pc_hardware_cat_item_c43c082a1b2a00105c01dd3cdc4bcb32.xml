@@ -14,6 +14,7 @@
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <features/>
+        <flow_designer_flow/>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -44,7 +45,7 @@
         <ordered_item_link/>
         <picture/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=c43c082a1b2a00105c01dd3cdc4bcb32&amp;sysparm_preview=true", "summary");</preview>
-        <price>6.2041</price>
+        <price>6.3999</price>
         <product_id/>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>

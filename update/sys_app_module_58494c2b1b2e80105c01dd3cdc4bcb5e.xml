@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="My training program - Padawan side">c278882b1b2e80105c01dd3cdc4bcbe8</application>
+        <application display_value="My Cloud Academy -  Padawan side">c278882b1b2e80105c01dd3cdc4bcbe8</application>
         <assessment/>
         <device_type/>
         <filter table="x_9001_jedi_path_follow_up_courses">state=2^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item display_value="Work in Progress" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/>

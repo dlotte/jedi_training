@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Target instance" max_length="40" name="x_9001_jedi_path_target_instance" type="collection">
+    <element label="Target instance" max_length="40" name="x_9001_jedi_path_target_instance" sizeclass="1" type="collection">
         <element label="Login" max_length="40" name="login" type="string"/>
         <element label="Password" max_length="40" name="password" type="password"/>
         <element choice="1" label="State" max_length="40" name="state" type="choice">

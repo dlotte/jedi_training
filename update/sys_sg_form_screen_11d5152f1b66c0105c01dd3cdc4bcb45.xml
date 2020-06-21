@@ -6,6 +6,7 @@
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="Course in progress Icon">99d5152f1b66c0105c01dd3cdc4bcb40</icon>
         <item_view display_value="Course in progress Header Item View">5dd5152f1b66c0105c01dd3cdc4bcb42</item_view>
         <name>Course in progress</name>

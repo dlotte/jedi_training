@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Comments" section_id="3b00bd3c2f619410e002d8ddf699b672" sys_domain="global" table="x_9001_jedi_path_follow_up_courses" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-19 12:49:50</sys_created_on>
+            <sys_id>b240357c2f619410e002d8ddf699b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="dab623b71bc200105c01dd3cdc4bcb3e">3b00bd3c2f619410e002d8ddf699b672</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-19 12:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_and_work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-19 12:49:50</sys_created_on>
+            <sys_id>3a40357c2f619410e002d8ddf699b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="dab623b71bc200105c01dd3cdc4bcb3e">3b00bd3c2f619410e002d8ddf699b672</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-19 12:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-19 12:49:50</sys_created_on>
+            <sys_id>be40357c2f619410e002d8ddf699b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="dab623b71bc200105c01dd3cdc4bcb3e">3b00bd3c2f619410e002d8ddf699b672</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-19 12:49:50</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Comments</caption>
+            <header>false</header>
+            <name>x_9001_jedi_path_follow_up_courses</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-19 12:48:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b00bd3c2f619410e002d8ddf699b672</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Comments</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+            <sys_update_name>sys_ui_section_3b00bd3c2f619410e002d8ddf699b672</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-19 12:49:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">dab623b71bc200105c01dd3cdc4bcb3e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</application>
+        <file_path/>
+        <instance_id>a24aa180dbcbb744f492c597059619d0</instance_id>
+        <instance_name>dev89785</instance_name>
+        <name>sys_ui_section_3b00bd3c2f619410e002d8ddf699b672</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Comments" section_id="3b00bd3c2f619410e002d8ddf699b672" sys_domain="global" table="x_9001_jedi_path_follow_up_courses" version="3" view="workspace"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-19 12:49:50</sys_created_on><sys_id>b240357c2f619410e002d8ddf699b669</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Comments" display_value="Comments" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="dab623b71bc200105c01dd3cdc4bcb3e">3b00bd3c2f619410e002d8ddf699b672</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-19 12:49:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>comments_and_work_notes</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-19 12:49:50</sys_created_on><sys_id>3a40357c2f619410e002d8ddf699b669</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Comments" display_value="Comments" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="dab623b71bc200105c01dd3cdc4bcb3e">3b00bd3c2f619410e002d8ddf699b672</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-19 12:49:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-19 12:49:50</sys_created_on><sys_id>be40357c2f619410e002d8ddf699b669</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Comments" display_value="Comments" name="x_9001_jedi_path_follow_up_courses" sys_domain="global" view="dab623b71bc200105c01dd3cdc4bcb3e">3b00bd3c2f619410e002d8ddf699b672</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-19 12:49:50</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Comments</caption><header>false</header><name>x_9001_jedi_path_follow_up_courses</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-19 12:48:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3b00bd3c2f619410e002d8ddf699b672</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Comments</sys_name><sys_overrides/><sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package><sys_policy/><sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope><sys_update_name>sys_ui_section_3b00bd3c2f619410e002d8ddf699b672</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-19 12:49:49</sys_updated_on><sys_user/><title>false</title><view display_value="Workspace" name="workspace">dab623b71bc200105c01dd3cdc4bcb3e</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>28535756</payload_hash>
+        <record_name>Follow-up courses</record_name>
+        <reverted_from/>
+        <source>87acd4902f955010e002d8ddf699b6e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 12:49:50</sys_created_on>
+        <sys_id>3240357c2f619410e002d8ddf699b66c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172cca0d0ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 12:49:50</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f640357cdf61941093d87e97c99c8a6b</update_guid>
+        <update_guid_history>f640357cdf61941093d87e97c99c8a6b:28535756,ee40357ce16194104f8c4551877b683a:1282540085,cc10bd3c646194104ae9726c96e156ae:691705391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:00:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1118c74e47cf47d28286a2738ae87284</sys_id>
+        <sys_metadata>3b00bd3c2f619410e002d8ddf699b672</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Comments</sys_name>
+        <sys_package display_value="training path" source="x_9001_jedi_path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_package>
+        <sys_parent display_value="Follow-up courses">677404ec1b2200105c01dd3cdc4bcb33</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="training path">7c3c724c1b2200105c01dd3cdc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">1c210faea79b4632a277ad986858a589</sys_scope_delete>
+        <sys_update_name>sys_ui_section_3b00bd3c2f619410e002d8ddf699b672</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_3b00bd3c2f619410e002d8ddf699b672">3240357c2f619410e002d8ddf699b66c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:00:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
